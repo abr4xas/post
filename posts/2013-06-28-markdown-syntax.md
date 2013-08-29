@@ -1,4 +1,9 @@
-# Markdown Syntax
+---
+layout: post
+title: Markdown Syntax
+tagline: "Cosas del d&iacute;a a d&iacute;a... "
+tags : [markdown, linux]
+---
 
 &Uacute;ltimamente he estado haciendo pequeñas aplicaciones con Markdown (*tanto así que he estado pensando en dejar de usar wordpress y pasarme a este lenguaje de marcado xD*) 
 y me ha tocado buscar información en cuanto a la sintaxis correcta al momento de hacer un documento, les dejare una pequeña lista de las guías que estoy usando, 

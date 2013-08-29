@@ -1,4 +1,9 @@
-# Todas las fuentes de #Debian nos pertenece
+---
+layout: post
+title: Debian nos pertenece
+tagline: "Hablando sobre el proyecto Debian"
+tags : [debian, linux]
+---
 
 [Debsources](http://anonscm.debian.org/gitweb/?p=qa/debsources.git "Debsources - all Debian source are belong to us") es una sencilla aplicación web que permite publicar una réplica de código fuente Debian desempaquetado en la Web.
 

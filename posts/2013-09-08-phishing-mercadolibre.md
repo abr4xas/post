@@ -1,5 +1,9 @@
-# Phishing en Mercadolibre
-
+---
+layout: post
+title: Phishing en Mercadolibre
+tagline: "Cosas que pasan..."
+tags : [phishing, mercadolibre]
+---
 
 Para los que venden en MERCADOLIBRE (IMPORTANTE) Phishing
 Aparentemente este es un nuevo modus operandi para estafar a través de MercadoLibre.com.ve

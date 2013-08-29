@@ -1,4 +1,9 @@
-# Software Freedom Day Valencia 2013
+---
+layout: post
+title: Software Freedom Day Valencia 2013
+tagline: "Al que debes asistir!!"
+tags : [sfd, evento]
+---
 
 ![Software Freedom Day][id]
 

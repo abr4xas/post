@@ -1,10 +1,13 @@
-# Usando subversion 
+---
+layout: post
+title: Usando subversion
+tagline: "Cosas del d&iacute;a a d&iacute;a... "
+tags : [svn, linux]
+---
 
 Subversion es un sistema de control de versiones de código fuente libre / abierto (VCS). Es decir, Subversion maneja ficheros y directorios, y los cambios introducidos en ellos, con el tiempo. Esto le permite recuperar versiones antiguas de sus datos, o examinar la historia de cómo cambiaron sus datos. En este sentido, muchas personas piensan de un sistema de control de versiones como una especie de "máquina del tiempo".
 
 Si quieres saber m&aacute;s de SVN lee este libro [Version Control with Subversion [DRAFT]](http://svnbook.red-bean.com/nightly/en/index.html "Version Control with Subversion [DRAFT]"), esta en ingles :D
-
-
 
 En ese ejemplo usare el "How to Use Subversion" de wordpress ya que recientemente hice unos cambios a un par de plugins y habia olvidado como usar SVN xD
 

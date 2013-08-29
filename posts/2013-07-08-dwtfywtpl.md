@@ -1,4 +1,9 @@
-# Do What The Fuck You Want To Public License 
+---
+layout: post
+title: Do What The Fuck You Want To Public License
+tagline: "Hablando de cosas extrañas..."
+tags : [licencias]
+---
 
 La Do What The Fuck You Want To Public License (WTFPL) es una licencia de software libre.
 
@@ -8,6 +13,7 @@ Al analizar si una licencia es libre o no, por lo general, comprueba que permite
 
 El texto de la licencia es el siguiente:
 
+{% highlight bash linenos %}
 
            		DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                        Version 2, December 2004 
@@ -21,7 +27,7 @@ El texto de la licencia es el siguiente:
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
           0. You just DO WHAT THE FUCK YOU WANT TO.
-
+{% highlight bash %}
 ----
  M&aacute;s info: 
 
