@@ -1,6 +1,9 @@
 # Como hacer un post
 
-Si deseas colaborar con un post debe tener la siguiente sintaxis:
+Si deseas colaborar con un post debes hacer lo siguiente:
+
+ * Un fork de este repo.
+ * Los post deben tener la siguiente sintaxis:
 
 ```
 	---
@@ -17,8 +20,6 @@ Obviamente, los post deben ser escritos con markdown puedes leer esta [guia](htt
 
 ## Licencia
 
-Todos los post estan disponible bajo:
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES" target="_blank"><img alt="Licencia de Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>
+Todos los post estan disponible bajo [CC 3.0 (by-nc-sa)](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES "CC 3.0 (by-nc-sa)").
 
 A menos que, el autor del post decida incluir ina licencia diferente para su post.
