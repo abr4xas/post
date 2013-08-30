@@ -6,9 +6,7 @@ tags : [bitcoin, mineria]
 ---
 
 
-Debemos tener claro que es [bitcoin](http://bitcoin.org/es/ "Una moneda digital P2P de c&oacute;digo abierto"). 
-
-Bitcoin es una moneda digital, un protocolo y un software que permite:
+Debemos tener claro que es [bitcoin](http://bitcoin.org/es/ "Una moneda digital P2P de c&oacute;digo abierto"). Bitcoin es una moneda digital, un protocolo y un software que permite...
 
  * Transacciones instantáneas punto a punto
  * Pagos en todo el mundo

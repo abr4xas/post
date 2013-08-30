@@ -5,9 +5,7 @@ tagline: "Cosas que pasan..."
 tags : [phishing, mercadolibre]
 ---
 
-Para los que venden en MERCADOLIBRE (IMPORTANTE) Phishing
-Aparentemente este es un nuevo modus operandi para estafar a través de MercadoLibre.com.ve
-Lo que hacen o lo que me hicieron fue ofertar por el articulo que publique, al rato me llegaron unos datos mas falsos que un billete de 3 Bs.
+Para los que venden en MERCADOLIBRE (IMPORTANTE) Phishing. Aparentemente este es un nuevo modus operandi para estafar a través de MercadoLibre.com.ve lo que hacen o lo que me hicieron fue ofertar por el articulo que publique, al rato me llegaron unos datos mas falsos que un billete de 3 Bs.
 
 Comprador:
 
