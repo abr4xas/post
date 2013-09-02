@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Seguro que tus archivos se eliminan?
+title: Seguro que tus archivos se eliminan?
 tagline: "Si pero, no..."
 tags : [files, deleted, borrar]
 ---
