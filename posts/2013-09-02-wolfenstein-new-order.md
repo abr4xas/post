@@ -18,7 +18,7 @@ Eres el capitán B.J. Blazkowicz, el héroe de guerra estadounidense que, tras e
 
 Solo tú te atreves a plantar cara a un ejército imparable de robots y gigantescos supersoldados nazis. Solo tú puedes detener a Calavera. Solo tú puedes volver a escribir la historia.
 
-Para más info, clic [aquí](http://wolfenstein.com/es-es).
+Fuente de la [información](http://wolfenstein.com/es-es).
 
 
 [id]: http://techgage.com/wp-content/uploads/2013/05/Wolfenstein-The-New-Order-Logo.png "Wolfenstein, La nueva orden"
