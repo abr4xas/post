@@ -6,13 +6,16 @@ Si deseas colaborar con un post debes hacer lo siguiente:
  * Los post deben tener la siguiente sintaxis:
 
 ```
-	---
-	layout: post
-	title: Titulo_Post
-	tags : [tag1, tag2]
-	---
+Title: My super title
+Date: 2010-12-03 10:20
+Modified: 2010-12-05 19:30
+Category: Python
+Tags: pelican, publishing
+Slug: my-super-post
+Authors: Alexis Metaireau, Conan Doyle
+Summary: Short version for index and feeds
 
-	Tu texto  aca
+This is the content of my super blog post.
 
 ```
 
@@ -20,6 +23,6 @@ Obviamente, los post deben ser escritos con markdown puedes leer esta [guia](htt
 
 ## Licencia
 
-Todos los post estan disponible bajo [CC 3.0 (by-nc-sa)](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES "CC 3.0 (by-nc-sa)").
+Todos los post estan disponible bajo [CC 4.0 (by-nc-sa)](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 A menos que, el autor del post decida incluir ina licencia diferente para su post.
