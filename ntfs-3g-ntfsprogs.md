@@ -1,4 +1,4 @@
-Title: $MFTMirr doesnt match
+Title: How to fix "$MFTMirr does not match $MFT (record 0)"
 Date: 2014-05-27 10:20
 Category: Linux
 Tags: linux
