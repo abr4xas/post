@@ -2,7 +2,7 @@ Title: Markdown Syntax
 Date: 2013-06-28 10:20
 Category: linux
 Tags: markdown, linux
-Slug: Markdown-Syntax
+Slug: markdown-syntax
 Author: abr4xas
 Summary: Últimamente he estado haciendo pequeñas aplicaciones con Markdown...
 image: http://goboard.dip.jp/wp-content/uploads/2013/04/markdown.png

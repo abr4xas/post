@@ -2,7 +2,7 @@ Title: Litecoin
 Date: 2013-08-31 10:20
 Category: Linux
 Tags: bitcoin,litecoin
-Slug: Litecoin
+Slug: litecoin
 Author: abr4xas
 Summary: La alternativa a Bitcoin...
 image: http://upload.wikimedia.org/wikipedia/commons/3/32/Official_Litecoin_Logo_With_Text.png

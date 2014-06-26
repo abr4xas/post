@@ -2,7 +2,7 @@ Title: Wolfenstein New Order
 Date: 2013-09-02 10:20
 Category: Games
 Tags: Games, linux
-Slug: Wolfenstein-New-Order
+Slug: wolfenstein-new-order
 Author: abr4xas
 Summary: Europa, 1946 la Segunda Guerra Mundial asola Europa. Aunque en otro momento los aliados llevaban ventaja, las fuerzas nazis han vuelto las tornas de un modo...
 image: http://techgage.com/wp-content/uploads/2013/05/Wolfenstein-The-New-Order-Logo.png

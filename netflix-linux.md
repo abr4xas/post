@@ -2,7 +2,7 @@ Title: Netflix en Linux
 Date: 2014-05-29 10:20
 Category: Linux
 Tags: linux
-Slug: Netflix-Linux
+Slug: netflix-linux
 Author: abr4xas
 Summary: Como activar de forma facil Silverlight para ver Netflix en linux
 image: https://help.netflix.com/layout/img/netflix_logo.png

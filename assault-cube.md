@@ -2,7 +2,7 @@ Title: Assault cube
 Date: 2013-08-31 10:20
 Category: Games
 Tags: games, linux
-Slug: Assault-cube
+Slug: assault-cube
 Author: abr4xas
 Summary: Es un excelente juego de disparos en primera persona multijugador, que consume muy pocos recursos y es compatible con...
 image: http://assault.cubers.net/docs/images/aclogo.png

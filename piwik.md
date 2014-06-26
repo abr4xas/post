@@ -2,7 +2,7 @@ Title: Piwik
 Date: 2013-08-31 10:20
 Category: Web
 Tags: web
-Slug: Piwik
+Slug: piwik
 Author: abr4xas
 Summary: Respeta tu privacidad y te da control total sobre tu información.
 image: http://www.whymeasurethat.com/wp-content/uploads/2013/12/piwik.jpg
