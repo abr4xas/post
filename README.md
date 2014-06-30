@@ -13,6 +13,7 @@ Tags: pelican, publishing
 Slug: my-super-post
 Author: Alexis Metaireau
 Summary: Una descripción corta de lo que trata el post... 
+image: http://url/de/imagen/destacada
 
 A partir de aquí, el contenido del post... 
 
