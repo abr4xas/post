@@ -16,10 +16,14 @@ La razón de este post es para quizas extender un poco más esas plataformas y e
 
 GitHub Pages es un servicio de alojamiento gratuito de GitHub para páginas web públicas y estáticas. Que usualmente es usado  para alojar blogs personales y sitios web de proyectos. Una desventaja, debemos saber usar git.
 
-
-
 ## Y como lo hago?
 
 Simplemente [clic acá](https://pages.github.com/ "pages.github.com"), tambien podemos ir en nuestro repo a: "Settings" y posteriormente darle clic a "Automatic page generator".
 
 Para más info clic [aquí](https://help.github.com/categories/20/articles)
+
+Lectura recomendada: 
+
+ * [Creando blogs con GitHub Pages](http://bitelia.com/2014/06/creando-blogs-con-github-pages)
+ * [Blog lowcost con GitHub y Pelican](http://www.pataliebre.net/blog-lowcost-con-github-y-pelican.html)
+ * [Migración a Jekyll Bootstrap](http://abr4xas.org/migracion-jekyll.html)
