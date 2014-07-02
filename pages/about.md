@@ -10,7 +10,7 @@ image: https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/1375758_137
 
 La mayoría de los proyectos en los que estoy trabajando/colaborando se encuentran en  github
 
-![Phishing en Mercadolibre][id]
+![Github Logo][id]
 
 
 Acá les puedos listar algunos:
