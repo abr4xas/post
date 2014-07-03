@@ -12,6 +12,9 @@ image: https://octodex.github.com/images/socialite.jpg
 ## Repo *[Post](https://github.com/abr4xas/post)*
 
 Este repo cuenta con las siguientes caracteristicas:
+
+La estructura del post:
+
 ```
 Title: My super title
 Date: 2010-12-03 10:20
