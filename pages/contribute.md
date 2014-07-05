@@ -7,9 +7,14 @@ Author: abr4xas
 Summary: Linux, un poco de python, bash, php, ruby, wordpress, bootstrap, css y otras cosas que no caben acá...
 image: https://octodex.github.com/images/socialite.jpg
 
-**abr4xas.org** usa *[Pelican](http://blog.getpelican.com/)* un generador de sitios web estático y esta alojado en github por lo cual, lo unico necesario para ayudar es una cuenta en github para poder hacer ```fork``` y enviar los Pull Request.
+**abr4xas.org** usa *[Pelican](http://blog.getpelican.com/)* un generador de sitios web estático y esta alojado en github.
 
-## Repo *[Post](https://github.com/abr4xas/post)*
+Lo unico necesario para ayudar es:
+
+* conocimientos sobre ```git```
+* una cuenta en github para poder hacer ```fork``` y enviar los Pull Request.
+
+## Repo: *[Post](https://github.com/abr4xas/post)*
 
 Este repo cuenta con las siguientes caracteristicas:
 
@@ -53,7 +58,7 @@ Obviamente, los post deben ser escritos con markdown puedes leer esta *[guia](ht
 
 Hay una gran variedad de temas que sería genial leer en **abr4xas.org** podemos tener publicaciones sobre sus opiniones personales acerca de cualquier cosa, pero estos temas:
 
-* No deben violar ningun derecho de copyright.
+* No deben violar ningun derecho de ```copyright```.
 * No deben ser sobre racismo.
 * Ni hablar de **POLITICA**.
 * Pornografia.
