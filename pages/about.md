@@ -24,10 +24,7 @@ Another foolish wp plugin
 # ReFu
 Regulatory functions, an wordpess plug-in
 
-
-[https://github.com/abr4xas...](http://mining.bitcoin.cz "https://github.com/abr4xas...").
-
-
+[https://github.com/abr4xas...](https://github.com/abr4xas/ReFu "https://github.com/abr4xas...").
 _________________________________________________________________________________________
 Estos otros proyectos aun no estoy seguro si seguir adelante con ellos de igual manera estarán reflejados acá hasta nuevo aviso :)
 

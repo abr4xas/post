@@ -5,7 +5,7 @@ Tags: flisol
 Slug: flisol-valencia-venezuela
 Author: abr4xas
 Summary: En la ciudad de Valencia (Venezuela) se llevará a cabo el próximo viernes, 02 de mayo del año en curso, el FLISOL.
-image: http://abr4xas.org/static/10aniv-flisol2.png
+image: images/10aniv-flisol2.png
 
 El Festival Latinoamericano de Instalación de Software Libre (***FLISoL***) es el evento de difusión de Software Libre más grande en Latinoamérica. Se realiza desde el año 2005 y desde el 2008 se adoptó su realización el 4to Sábado de abril de cada año. 
 
