@@ -13,14 +13,14 @@ Este (y posiblemente otros) post serán una pequeña introducción para entender
 
 ## Puesta en marcha
 Requerimientos previos:
-
-     aptitude install php5-cli
-
+```bash
+aptitude install php5-cli
+```
 Luego:
-
-     curl -sS https://getcomposer.org/installer | php
-     sudo mv composer.phar /usr/local/bin/composer
-
+```bash
+curl -sS https://getcomposer.org/installer | php
+sudo mv composer.phar /usr/local/bin/composer
+```
 Y ya con esto podemos ejecutar composer en cualquier otro proyecto que lo necesite :)
 
 ## Obteniendo Laravel
@@ -35,15 +35,17 @@ Yo, seleccione el .ZIP :problem:
 ## Manos a la obra
 
 Procedemos a obtener todo lo necesario para poder trabajar con laravel usando composer:
-
-     composer install
-
+```bash
+composer install
+```
 **BTW**...
 
 Si de casualidad presentan algun tipo de error con php5-mcrypt hagan esto:
 
+```bash
      aptitude install mcrypt
      aptitude install php5-mcrypt
+```
 
 Y luego:
 
@@ -55,11 +57,15 @@ update
 <strike>NOTA: El primer cambio que hice fue renombrar server.php a index.php </strike>
 Escribimos en la terminal: 
 
+```bash
      php artisan serve
+```
 
 Y vamos a obtener algo como esto:
 
+```bash
      Laravel development server started on http://localhost:8000
+```
 
 Y listo :)
 
@@ -67,25 +73,31 @@ Ajá... Si ya no tenemos ningun tipo de error procedemos:
 
 Usando nuestro editor de texto preferido navegamos hasta:
 
-     app/controllers/HomeController.php
+```
+app/controllers/HomeController.php
+```
 
 Y vamos a ver algo parecido a esto:
 
-     public function showWelcome()
-     {
-         return View::make('hello');
-     }
+```
+public function showWelcome()
+{
+    return View::make('hello');
+}
+```     
 En este punto, estamos "trabajando" con el controlador pero necesitamos saber a donde va ( o viene sengun como lo quieran ver) los llamados que se hacen para mostrar las paginas que estemos visualizando y es por esto que debemos revisar el siguiente archivo:
 
-     app/routes.php
-
+```
+app/routes.php
+```
 Donde, vamos a ver algo como esto:
 
+```
      Route::get('/', function()
      {
          return View::make('hello');
      });
-
+```
 Ahí esta llamando a una "**vista**" llamada "*hello*" entonces navegamos hasta:
 
      app/views/hello.php

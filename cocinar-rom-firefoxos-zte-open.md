@@ -26,7 +26,9 @@ Si, absolutamente... Si compilamos para la v1.3 luego de aplicar el ./flash.sh n
 
 Y por lo que entiendo todo es al momento de compilar si no queremos tener las herramientas de desarrolladores aplicamos:
 
+```bash
     BRANCH=v1.3 VARIANT=user ./config.sh inari
+```    
 Pero al hacerlo e instalar la ROM me instala todas las herramientas de desarrolladores.
 
 Entonces, no se como modificar eso... Si sabes algo escríbeme al twitter @abr4xas :)

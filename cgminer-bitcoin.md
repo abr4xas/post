@@ -26,29 +26,29 @@ Iniciamos creando el directorio de trabajo para esta instalación, ingresamos y 
 
 Instalamos 
 
-{% highlight bash linenos %}
+```bash
 ~# aptitude install libcurl4-gnutls-dev
-{% endhighlight %}
+```
 
  Y luego: 
 
-{% highlight bash linenos %}
+```bash
 ~# mkdir cgminer
 ~# cd cgminer/
 ~# wget http://ck.kolivas.org/apps/cgminer/2.10/cgminer-2.10.4.tar.bz2
-{% endhighlight %}
+```
 
-{% highlight bash linenos %}
+```bash
 ~# tar -xvjf cgminer-2.10.4.tar.bz2
 ~# cd cd cgminer-2.10.4/
 ~# ./configure --enable-cpumining
-{% endhighlight %}
+```
 
 Para conectarnos simplemente debemos:
 
-{% highlight bash linenos %}
+```bash
 ~# cgminer --algo auto -o http://pool.bitclockers.com:8332 -u Gram01Test -p test123
-{% endhighlight %}
+```
 
 Yo uso [mining.bitcoin.cz](http://mining.bitcoin.cz "mining.bitcoin.cz"). 
 
