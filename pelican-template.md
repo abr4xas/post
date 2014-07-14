@@ -11,7 +11,7 @@ Ok, todo bien pero... ¿Que diablos es Pelican? Bueno, acá la respuesta:
 
 > Open-source static site publishing tool. Supports Markdown and reST-formatted content. Powered by Python. And lots of fish.
 
-El repo de la plantilla es [este](https://github.com/abr4xas/ptemplate "Repo de plantilla").
+El repo de la plantilla es [este](https://github.com/spinner-dev/ptemplate "Repo de plantilla").
 
 
 <div class="alert alert-danger" role="alert">POR FAVOR, NO AGREGARLO COMO UN SUBMODULO... SE RECOMIENDA HACER UN <code>FORK</code> Y A PARTIR DE AHÍ HACER LO CONVENIENTE</div>
