@@ -44,16 +44,10 @@ OPEN_GRAPH_FB_APP_ID = ''
  * Revisar el contenido de ```templates/base.html``` y editar lo necesario (boton de paypal, suscripción por email).
  * Revisar el contenido de ```templates/index.html``` y de ```templates/article.html``` para cambiar el codigo de adsense por el propio. En este ultimo tambien se encuentra la suscripción por email y publicidad.
 
-## Ejemplo 
-
-Este mismo blog :D
-
 Enlaces de interes:
 
  * [http://getpelican.com](http://getpelican.com "http://getpelican.com")
  * [Las razones para usar pelican](http://jesuslc.com/2014/02/27/primeros-pasos-con-pelican-en-windows/ "¿Por qué elegir Pelican para crear html estático?")
-
-
 
 Si te gusta esta plantilla, y quieres dar las gracias por las horas que pase haciendolo por favor:
 
@@ -61,3 +55,11 @@ Si te gusta esta plantilla, y quieres dar las gracias por las horas que pase hac
  * Incluir un enlace desde tu blog al mio.
 
 De verdad, muchas gracias por usarlo.
+
+## Screenshots
+
+### v0.2 de la plantilla
+![Alt Text]({filename}/images/blog2.png)
+
+### v0.1 de la plantilla
+![Alt Text]({filename}/images/blog.png)
