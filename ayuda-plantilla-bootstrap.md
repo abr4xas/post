@@ -5,8 +5,7 @@ Tags: BootStrap,CSS,HTML,Plantillas,Diseño Web
 Slug: ayuda-plantilla-bootstrap
 Author: abr4xas
 Summary: Necesitas ayuda con Twitter Bootstrap? Necesitas modificar algunas cosas para adpatar el diseño HTML a tus necesidades? Pues, yo puedo ayudarte con todo eso y más...
-image: http://cdnec1.fiverrcdn.com/photos/2693287/v2_680/Coding-the-Bootstrap-Portfolio-using-Twitter-Bootstrap-HTML5-and-CSS3.jpg
-
+image: images/ayuda-plantilla-bootstrap.jpg
 
 Necesitas ayuda con Twitter Bootstrap? Necesitas modificar algunas cosas para adpatar el diseño HTML a tus necesidades? Pues, yo puedo ayudarte con todo eso y más...
 
