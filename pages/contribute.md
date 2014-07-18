@@ -53,6 +53,11 @@ content/
 
 Obviamente, los post deben ser escritos con markdown puedes leer esta *[guia](https://github.com/circa75/dropplets/wiki/Markdown-Syntax-Guide)* para tener mayor información de como hacerlo.
 
+Las imagenes deben tener las siguientes caracteristicas:
+
+* Ancho: 700px
+* Alto: 300px
+
 ## Temas y normas para la publicación
 
 Hay una gran variedad de temas que sería genial leer en **abr4xas.org** podemos tener publicaciones sobre sus opiniones personales acerca de cualquier cosa, pero estos temas:
