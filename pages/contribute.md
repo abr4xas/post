@@ -45,8 +45,7 @@ content/
 ├── extra
 │   └── CNAME
 ├── images
-│   ├── 2014-03-18-13-23-30.png
-│   └── config_netflix_ua.png
+│   ├── nombre-de-la-imagen.png
 ├── pages
 │   ├── about.md
 │   └── contribute.md

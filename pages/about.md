@@ -35,8 +35,16 @@ Profesor en la Academia de Software Libre en [Fundacite Carabobo](www.fundacite-
 
 
 ##Enlázanos en tu sitio web
+
+Banner 468*60
+
 ```html
-<a href="http://abr4xas.org" target="_blank" title="abr4xas.org"><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn2/t1/1375758_1378127522423533_1335788860_n.jpg" alt="abr4xas.org" width="468" height="60" border="0" /></a>
+<a href="http://abr4xas.org" target="_blank" title="abr4xas.org"><img src="http://static.abr4xas.org/abr4xas468.png" alt="abr4xas.org" width="468" height="60" border="0" /></a>
+```
+Banner 212*192
+
+```html
+<a href="http://abr4xas.org" target="_blank" title="abr4xas.org"><img src="http://static.abr4xas.org/abr4xas212.png" alt="abr4xas.org" width="212" height="192" border="0" /></a>
 ```
 
 [id]: https://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Logo.png  "Github Logo"
