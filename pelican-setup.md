@@ -15,7 +15,7 @@ Este será el indice de una serie de post que voy a realizar para tratar de expl
 
 * Instalando Pelican con sus dependencias en un virtualenv
 * Iniciamos el comando ```pelican-quick-start```
-* Fork temas plugins desde el repo de GitHub de Pelican.
+* Fork de temas y plugins desde el repo de GitHub de Pelican.
 * Agregando un submodulo de git en nuesto proyecto.
 * Crear directorios adicionales dentro del directorio ```content```.
 * Modificar/agregar configuraciones en los archivos: ```pelicanconf.py``` y ```publishconf.py```.
