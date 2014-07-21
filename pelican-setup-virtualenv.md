@@ -1,5 +1,5 @@
 Title: Instalando pelican en virtualenv
-Date: 2014-07-22 10:20
+Date: 2014-07-21 10:21
 Category: Linux
 Tags: Linux, Dev, Web, Pelican
 Slug: pelican-setup-virtualenv
