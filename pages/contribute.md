@@ -55,8 +55,8 @@ Obviamente, los post deben ser escritos con markdown puedes leer esta *[guia](ht
 
 Las imagenes deben tener las siguientes caracteristicas:
 
-* Ancho: 700px
-* Alto: 300px
+* Ancho: 200px
+* Alto: 200px
 
 ## Temas y normas para la publicación
 
