@@ -18,6 +18,6 @@ La red Litecoin está programada para producir 84 millones de unidades monetaria
 
 # Enlaces
 
-* Aqui pueden saber más sobre [Litecoin](https://litecoin.org/es) de la noticia.
+* Aqui pueden saber más sobre [Litecoin](https://litecoin.org/es).
 
 [id]: https://litecoin.org/images/litecoin-logo-192.png "Litecoin"

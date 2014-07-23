@@ -36,9 +36,6 @@ Instalamos
 ~# mkdir cgminer
 ~# cd cgminer/
 ~# wget http://ck.kolivas.org/apps/cgminer/2.10/cgminer-2.10.4.tar.bz2
-```
-
-```bash
 ~# tar -xvjf cgminer-2.10.4.tar.bz2
 ~# cd cd cgminer-2.10.4/
 ~# ./configure --enable-cpumining
