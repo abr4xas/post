@@ -5,7 +5,7 @@ Tags: eventos, linux
 Slug: sfd-valencia
 Author: abr4xas
 Summary: Software Freedom Day es una celebraci&oacute;n global del Software Libre y abierto (FLOSS). 
-image: https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash3/536684_10151631294967762_1053829041_n.jpg
+image: images/sfdlogo.png
 
 
 Software Freedom Day es una celebraci&oacute;n global del Software Libre y abierto (FLOSS). Nuestra meta en esta celbraci&oacute;n es educar al público sobre los beneficios de usar FLOSS de alta calidad en la academica, gobierno, en el hogar y el trabajo... En resumen, en todas partes! 

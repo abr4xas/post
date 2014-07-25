@@ -5,7 +5,7 @@ Tags: php, laravel
 Slug: hello-world-laravel
 Author: abr4xas
 Summary: Mis experiencias con Laravel 4. Practicamente desde cero... =P
-image: http://www.diegocazorla.com/wp-content/uploads/2013/09/laravel.png
+image: images/laravel.png
 
  > Laravel como tal trabaja especificamente con "Routes with Closures" en lugar de un MVC tradicional con el objetivo de hacer el código más claro. Aun así permite el uso de MVC tradicional.
 

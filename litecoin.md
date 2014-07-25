@@ -5,7 +5,7 @@ Tags: bitcoin,litecoin
 Slug: litecoin
 Author: abr4xas
 Summary: La alternativa a Bitcoin...
-image: http://upload.wikimedia.org/wikipedia/commons/3/32/Official_Litecoin_Logo_With_Text.png
+image: images/litecoin.jpg
 
 Litecoin es una moneda electrónica sustentada por la red P2P que permite la realización de pagos de manera instantánea a cualquier parte del mundo. 
 

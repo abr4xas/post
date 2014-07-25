@@ -5,7 +5,7 @@ Tags: firefox os
 Slug: actualizando-zte-open-de-firefox-os
 Author: abr4xas
 Summary: Actualizando el ZTE open de Firefox OS...
-image: http://firefox.ztems.com/index_files/firefoxos.jpg
+image: images/Firefox-OS.png
 
 
 Para los meses de Noviembre pasado la gente de ZTE lanzo su correspondiente actualización para los dispositivos ZTE Open, con esta versión la mayoría de las personas se han quedado sin ***ROOT*** pero esto no es así del todo...

@@ -5,7 +5,7 @@ Tags: markdown, linux
 Slug: markdown-syntax
 Author: abr4xas
 Summary: Últimamente he estado haciendo pequeñas aplicaciones con Markdown...
-image: http://goboard.dip.jp/wp-content/uploads/2013/04/markdown.png
+image: images/markdown.png
 
 This is the content of my super blog post.
 

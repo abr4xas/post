@@ -5,7 +5,7 @@ Tags: games
 Slug: opinion-nintendo-meh
 Author: abr4xas
 Summary: Reggie Fils-Aime es un hombre que sabe y disfruta su papel como Presidente de Nintendo of América...
-image: http://upload.wikimedia.org/wikipedia/commons/2/29/NintendoLogo.png
+image: images/NintendoLogo.png
 
 Reggie Fils-Aime es un hombre que sabe y disfruta su papel como Presidente de Nintendo of América...
 

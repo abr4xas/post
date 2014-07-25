@@ -5,7 +5,7 @@ Tags: programacion, web
 Slug: pagespeed-insights
 Author: abr4xas
 Summary: Ayuda para conseguir una mayor velocidad en nuestros sitios web en todos los dispositivos...
-image: https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/1375758_1378127522423533_1335788860_n.jpg
+image: images/abr4xaslogo.jpg
 
 # Sobre PageSpeed Insights
 

@@ -5,7 +5,7 @@ Tags: linux
 Slug: netflix-linux
 Author: abr4xas
 Summary: Como activar de forma facil Silverlight para ver Netflix en linux
-image: https://help.netflix.com/layout/img/netflix_logo.png
+image: images/Netflix-App-Logo.jpg
 
 
 Si, hay muchos tutoriales de como poder activar de forma facil Silverlight para ver Netflix en linux pero no todos funcionan de verdad...

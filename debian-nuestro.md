@@ -5,7 +5,7 @@ Tags: linux
 Slug: debian-nuestro
 Author: abr4xas
 Summary: Debsources es una sencilla aplicación web que permite publicar una réplica de código fuente Debian desempaquetado en la Web. Puede implementar Debsources donde quieras, pero no hay una instancia principal en sources.dn que es probable que encuentre interesante.
-image: https://wiki.videolan.org/images/Debian-logo.jpg
+image: http://std3.ru/6e/91/1370958155-6e91bca928fbe36f43720175313c64c5.png
 
 Debsources es una sencilla aplicación web que permite publicar una réplica de código fuente Debian desempaquetado en la Web. Puede implementar Debsources donde quieras, pero no hay una instancia principal en sources.dn que es probable que encuentre interesante.
 

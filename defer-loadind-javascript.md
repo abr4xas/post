@@ -5,7 +5,7 @@ Tags: javascript, web
 Slug: defer-loadind-javascript
 Author: abr4xas
 Summary: Hagamos un verdadero defer a la carga del javascript
-image: http://ocpsoft.org/wp-content/uploads/2013/01/javascript_logo_unofficial-300x300.png
+image: images/javascript_logo_unofficial-200x200.png
 
 Hacer defer el javascript es uno de esos temas que preocupan a quienes tienen una pagina web en cuanto al tema de la optimización de la misma.
 

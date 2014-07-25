@@ -5,7 +5,7 @@ Tags: copyleft, licencias
 Slug: fundacion-copyleft
 Author: abr4xas
 Summary: La Fundación Copyleft nace para potenciar y defender la producción de arte, cultura y...
-image: http://fundacioncopyleft.org/imgs/fundacion-copyleft-01n.gif
+image: images/fundacion-copyleft.jpg
 
 La Fundación Copyleft nace para potenciar y defender la producción de arte, cultura y ciencia bajo licencias copyleft.
 
@@ -14,3 +14,5 @@ Entendemos por licencias copyleft aquellas que permitiendo un mayor control de l
 Para ello la Fundación Copyleft realizará proyectos específicos encaminados al desarrollo y conocimiento de actividades bajo estos permisos copyleft en el sector de las artes, la cultura y la ciencia, coordinando y dinamizando sinergias provenientes de las personas físicas, empresas privadas y administraciones públicas.
 
 La Fundación Copyleft invita formalmente a la participación de todos los agentes de la cadena de valor de las artes, la cultura y las ciencias así como personas físicas y jurídicas interesadas en el copyleft.
+
+Para más info: clic [aquí](http://fundacioncopyleft.org/).

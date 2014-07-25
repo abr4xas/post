@@ -5,7 +5,7 @@ Tags: linux
 Slug: borrando-archivos
 Author: abr4xas
 Summary: Asi como yo, de seguro pensabas que
-image: http://linuxmoz.com/wp-content/uploads/2012/10/how-to-erase-hard-disk-arnie-eraser.jpg
+image: images/how-to-erase-hard-disk-arnie-eraser.jpg
 
 
 Asi como yo, de seguro pensabas que tus archivos al momendo de eliminarlos se eliminaban completamente pero la (cruda) realidad es que no es así.

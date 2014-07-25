@@ -5,7 +5,7 @@ Tags: licencias, linux
 Slug: wtfpl
 Author: abr4xas
 Summary: La Do What The Fuck You Want To Public License (WTFPL) es una licencia de software libre.
-image: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl.svg
+image: images/200px-WTFPL_logo.png
 
 La Do What The Fuck You Want To Public License (WTFPL) es una licencia de software libre.
 

@@ -5,7 +5,7 @@ Tags: firefox os
 Slug: workbench-firefox-os
 Author: abr4xas
 Summary: Script para preparar el entorno para compilar una ROM para Firefox OS [DEBIAN]
-image: http://mozorg.cdn.mozilla.net/media/img/styleguide/identity/firefoxos/wordmark-standard-grey.png
+image: images/Firefox-OS.png
 
 Script para preparar el entorno para compilar una ROM para Firefox OS [DEBIAN]
 

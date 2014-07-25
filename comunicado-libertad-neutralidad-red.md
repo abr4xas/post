@@ -1,11 +1,11 @@
-Title: Comunicado a favor de la libertad y neutralidad de la red
+Title: Comunicado...
 Date: 2014-02-26 10:20
 Category: Libertad
 Tags: Blog
 Slug: comunicado-libertad-neutralidad-red
 Author: abr4xas
 Summary: Comunicado a favor de la libertad y neutralidad de la red
-image: https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/1375758_1378127522423533_1335788860_n.jpg
+image: images/abr4xaslogo.jpg
 
 En días pasados un grupo de usuarios del Software Libre en Venezuela nos reunimos via IRC en el canal de los amigos de Unplug, donde conversamos sobre el rechazo de la aplicación del CESPPA (Centro Estratégico de Seguridad y Protección de la Patria).
 

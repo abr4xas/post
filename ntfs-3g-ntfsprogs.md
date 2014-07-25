@@ -1,11 +1,11 @@
-Title: How to fix $MFTMirr does not match $MFT (record 0)
+Title: Usando NTFS-3G + Ntfsprogs
 Date: 2014-05-27 10:20
 Category: Linux
 Tags: linux
 Slug: ntfs-3g-ntfsprogs
 Author: abr4xas
 Summary: How to fix $MFTMirr does not match $MFT (record 0)
-image: http://1.bp.blogspot.com/-m5_fC220XYc/UpzRdbfs60I/AAAAAAAAIzc/6CqNWmq3fP0/s1600/tux-hdd-mount.jpg
+image: images/tux-hdd-mount.jpg
 
 Bueno, para resolver ese "pequeño" problema vamos a usar:
 

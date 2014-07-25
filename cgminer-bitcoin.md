@@ -5,7 +5,7 @@ Tags: bitcoin, mineria, linux
 Slug: cgminer-bitcoin
 Author: abr4xas
 Summary: Debemos tener claro que es [bitcoin](http://bitcoin.org/es/ "Una moneda digital P2P de c&oacute;digo abierto"). Bitcoin es una moneda digital, un protocolo y un software que permite...
-image:https://ip.bitcointalk.org/?u=http%3A%2F%2F1.bp.blogspot.com%2F-yjNJCUvRTR8%2FUVEijuSP7XI%2FAAAAAAAAAUw%2Fr43k5i4117M%2Fs1600%2Fminer.png&t=541&c=rqFLUfdwujto3g
+image: images/bitconlogo.png
 
 Debemos tener claro que es [bitcoin](http://bitcoin.org/es/ "Una moneda digital P2P de c&oacute;digo abierto"). Bitcoin es una moneda digital, un protocolo y un software que permite...
 

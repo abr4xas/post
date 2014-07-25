@@ -5,7 +5,7 @@ Tags: bitcoin
 Slug: bitcoin-machine
 Author: abr4xas
 Summary: Your Bitcoin mining machine. Join the gold rush now! ASRock H81 Pro BTC Bitcoin/Litecoin mining motherboard... Un gadget muy muy interesante...
-image: http://www.asrock.com/mb/sticker/8-Bitcoin-H81%20Pro%20BTC.jpg
+image: images/bitconlogo.png
 
 # AsRock, AsRock... Tu si sabes como hacernos felices!!
 

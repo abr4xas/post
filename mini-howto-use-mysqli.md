@@ -5,7 +5,7 @@ Tags: php, web
 Slug: mini-howto-use-mysqli
 Author: abr4xas
 Summary: Hagamos un verdadero defer a la carga del javascript
-image: http://2.bp.blogspot.com/-_pEuTgi1HuY/UfjJyTBGIPI/AAAAAAAAAfQ/DwXd5-6hSMk/s1600/mysqli.png
+image: images/mysqli.png
 
 # ¿Qué es la extensión mysqli de PHP?
 
