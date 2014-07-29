@@ -14,7 +14,7 @@ Este será el indice de una serie de post que voy a realizar para tratar de expl
 ## Pasos
 
 * Instalando pelican en ```virtualenv``` [ver post](http://blog.abr4xas.org/pelican-setup-virtualenv.html "Ver Post").
-* Iniciamos el comando ```pelican-quick-start``` 
+* Iniciamos el comando ```pelican-quick-start``` [ver post](http://blog.abr4xas.org/pelican-setup-quickstart.html "Ver Post").
 * Fork de temas y plugins desde el repo de GitHub de Pelican.
 * Agregando un submodulo de git en nuesto proyecto.
 * Crear directorios adicionales dentro del directorio ```content```.
