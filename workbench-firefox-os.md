@@ -1,4 +1,4 @@
-Title: Workbench: Firefox OS
+Title: Firefox OS ROM
 Date: 2014-04-12 10:20
 Category: Linux
 Tags: firefox os

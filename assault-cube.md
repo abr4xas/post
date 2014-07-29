@@ -4,7 +4,7 @@ Category: Games
 Tags: games, linux
 Slug: assault-cube
 Author: abr4xas
-Summary: Es un excelente juego de disparos en primera persona multijugador, que consume muy pocos recursos y es compatible con...
+Summary: Es un excelente juego de disparos en primera persona multijugador...
 image: http://assault.cubers.net/docs/images/aclogo.png
 
 Es un excelente juego de disparos en primera persona multijugador, que consume muy pocos recursos y es compatible con windows, GNU/Linux y mac, con mas de 200 servidores disponibles para jugar!.

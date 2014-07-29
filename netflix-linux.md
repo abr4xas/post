@@ -1,4 +1,4 @@
-Title: Netflix en Linux
+Title: Usar Netflix en Linux
 Date: 2014-05-29 10:20
 Category: Linux
 Tags: linux

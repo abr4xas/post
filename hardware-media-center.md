@@ -1,11 +1,13 @@
-Title: No solo es el software, tambien es el hardware
+Title: Tambien es el hardware
 Date: 2014-02-04 10:20
 Category: Gadget
 Tags: hardware
 Slug: hardware-media-center
 Author: abr4xas
-Summary: Desde hace algun tiempo, los media center está de moda, no son más que equipos conectados al televisor que sirven como reproductor multimedia de audio/vídeo, muchos de nosotros en algun momento nos planteamos el hacer un media center algunos lo logran otros, simplemente nos preocupamos en las caracteristicas del equipo donde lo vamos a montar y esta es la razón de este post.
+Summary: Desde hace algun tiempo, los media center está de moda, no son más que equipos conectados...
 image: images/elementhdtv.jpg
+
+Desde hace algun tiempo, los media center está de moda, no son más que equipos conectados al televisor que sirven como reproductor multimedia de audio/vídeo, muchos de nosotros en algun momento nos planteamos el hacer un media center algunos lo logran otros, simplemente nos preocupamos en las caracteristicas del equipo donde lo vamos a montar y esta es la razón de este post.
 
 # Como ya les dije, los media center son el ROCK!! 
 

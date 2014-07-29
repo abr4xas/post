@@ -4,7 +4,7 @@ Category: App
 Tags: firefox os, app
 Slug: app-firefox-os
 Author: abr4xas
-Summary: Ya esta publicada la app para firefox os de dnb (drum and bass), DnB Player esta disponible para su descarga y uso :D
+Summary: Ya esta publicada la app para firefox os de dnb (drum and bass) :D
 image: images/Firefox-OS.png
 
 Ya esta publicada la app para firefox os de dnb (drum and bass), DnB Player esta disponible para su descarga[0] y uso :D

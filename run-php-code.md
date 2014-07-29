@@ -1,10 +1,10 @@
-Title: Probar rapidamente código PHP
+Title: Probar código PHP
 Date: 2014-07-03 10:20
 Category: Php
 Tags: programación, web, php
 Slug: run-php-code
 Author: abr4xas
-Summary: Este script le da la capacidad para probar rápidamente fragmentos de código PHP localmente. Se requiere un servidor apache local.
+Summary: Este script le da la capacidad para probar rápidamente fragmentos de código PHP
 image: images/php_logo_200_200.png
 
  Este script le da la capacidad para probar rápidamente fragmentos de código PHP localmente. Se requiere un servidor apache local.

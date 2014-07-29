@@ -1,4 +1,4 @@
-Title: Aprendiendo a usar MySQLi
+Title: How to use MySQLi
 Date: 2014-04-19 10:20
 Category: Web
 Tags: php, web

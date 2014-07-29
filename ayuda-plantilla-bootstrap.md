@@ -1,4 +1,4 @@
-Title: Yo voy a ayudarte con twitter bootstrap si tienes problemas por 5$
+Title: Por 5$ te ayudo con bootstrap.
 Date: 2014-07-17 10:20
 Category: Freelance
 Tags: BootStrap,CSS,HTML,Plantillas,Diseño Web
