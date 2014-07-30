@@ -27,6 +27,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: my-super-post
 Author: 
+twitter: tu user sin el @
 Summary: Una descripción corta de lo que trata el post... 
 image: http://url/de/imagen/destacada
 
