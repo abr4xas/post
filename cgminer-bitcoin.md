@@ -4,6 +4,7 @@ Category: Bitcoin
 Tags: bitcoin, mineria, linux
 Slug: cgminer-bitcoin
 Author: abr4xas
+twitter: abr4xas
 Summary: Debemos tener claro que es [bitcoin](http://bitcoin.org/es/ "Una moneda digital P2P de c&oacute;digo abierto"). Bitcoin es una moneda digital, un protocolo y un software que permite...
 image: images/bitconlogo.png
 

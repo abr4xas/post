@@ -4,6 +4,7 @@ Category: Blog
 Tags: Linux
 Slug: cotejo-vaslibre
 Author: VaSLibre
+twitter: vaslibre
 Summary: Hemos estado pensando en relanzar nuevamente a Cotejo la revista de VaSlibre. El único requisito es que sea sobre software libre o hardware libre.
 image: http://vaslibre.org.ve/img/vaslibre_log.png
 

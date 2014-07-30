@@ -4,6 +4,7 @@ Category: Games
 Tags: games, linux
 Slug: assault-cube
 Author: abr4xas
+twitter: abr4xas
 Summary: Es un excelente juego de disparos en primera persona multijugador...
 image: http://assault.cubers.net/docs/images/aclogo.png
 

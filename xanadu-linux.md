@@ -4,6 +4,7 @@ Category: Linux
 Tags: OS,xanadu
 Slug: xanadu-linux
 Author: abr4xas
+twitter: abr4xas
 Summary: Derivado de Debian que utiliza SID como base y LXDE como entorno de escritorio, pensada para...
 image: images/xanadu-linux.png
 

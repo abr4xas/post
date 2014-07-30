@@ -4,6 +4,7 @@ Category: Web
 Tags: php, web
 Slug: mini-howto-use-mysqli
 Author: abr4xas
+twitter: abr4xas
 Summary: Hagamos un verdadero defer a la carga del javascript
 image: images/mysqli.png
 

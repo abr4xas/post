@@ -4,6 +4,7 @@ Category: dev
 Tags: php, laravel
 Slug: hello-world-laravel
 Author: abr4xas
+twitter: abr4xas
 Summary: Mis experiencias con Laravel 4. Practicamente desde cero... =P
 image: images/laravel.png
 

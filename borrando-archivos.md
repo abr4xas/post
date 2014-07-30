@@ -4,6 +4,7 @@ Category: linux
 Tags: linux
 Slug: borrando-archivos
 Author: abr4xas
+twitter: abr4xas
 Summary: Asi como yo, de seguro pensabas que tus archivos al momendo de eliminarlos
 image: images/how-to-erase-hard-disk-arnie-eraser.jpg
 

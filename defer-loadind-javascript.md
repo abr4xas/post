@@ -4,6 +4,7 @@ Category: Web
 Tags: javascript, web
 Slug: defer-loadind-javascript
 Author: abr4xas
+twitter: abr4xas
 Summary: Hagamos un verdadero defer a la carga del javascript
 image: images/javascript_logo_unofficial-200x200.png
 

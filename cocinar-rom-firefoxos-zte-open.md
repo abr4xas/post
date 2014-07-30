@@ -4,6 +4,7 @@ Category: Linux
 Tags: firefox os
 Slug: cocinar-rom-firefoxos-zte-open
 Author: abr4xas
+twitter: abr4xas
 Summary: Preparando todo para compilar una ROM Firefox OS para el ZTE Open y otras cosas...
 image: images/Firefox-OS.png
 

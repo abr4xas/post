@@ -4,6 +4,7 @@ Category: Linux
 Tags: firefox os
 Slug: actualizando-zte-open-de-firefox-os
 Author: abr4xas
+twitter: abr4xas
 Summary: Actualizando el ZTE open de Firefox OS...
 image: images/Firefox-OS.png
 

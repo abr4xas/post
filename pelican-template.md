@@ -4,6 +4,7 @@ Category: Web
 Tags: pelican, python, web
 Slug: pelican-template
 Author: abr4xas
+twitter: abr4xas
 Summary: Una plantilla para pelican usando bootstrap, aun con cosas por mejorar pero puede ser usada sin problemas :D
 image: images/2043492.png
 

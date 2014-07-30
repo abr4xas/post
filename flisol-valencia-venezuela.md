@@ -4,6 +4,7 @@ Category: Eventos
 Tags: flisol
 Slug: flisol-valencia-venezuela
 Author: abr4xas
+twitter: abr4xas
 Summary: En la ciudad de Valencia (Venezuela) se llevará a cabo el próximo viernes, 02 de mayo del...
 image: http://flisoljs.info/img/logo-flisol-200x200.png
 

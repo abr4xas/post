@@ -4,6 +4,7 @@ Category: Linux
 Tags: linux
 Slug: ntfs-3g-ntfsprogs
 Author: abr4xas
+twitter: abr4xas
 Summary: How to fix $MFTMirr does not match $MFT (record 0)
 image: images/tux-hdd-mount.jpg
 

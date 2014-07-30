@@ -4,6 +4,7 @@ Category: Gadget
 Tags: bitcoin
 Slug: bitcoin-machine
 Author: abr4xas
+twitter: abr4xas
 Summary: Your Bitcoin mining machine. Join the gold rush now! ASRock H81 Pro BTC Bitcoin/Litecoin...
 image: images/bitconlogo.png
 

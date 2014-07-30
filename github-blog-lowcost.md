@@ -4,6 +4,7 @@ Category: Blog
 Tags: web, blog, github
 Slug: github-blog-lowcost
 Author: abr4xas
+twitter: abr4xas
 Summary: La (o el) internet esta llena/o de blogs, que tienen propósitos tan diversos como sus temáticas. Cualquier persona con un poco de curiosidad (y algo de sentido comun) puede tener un blog usando cualquier plataforma como blogspot/wordpress/tumblr. Sin embargo, no son todas las plataformas que existen... Hace un tiempo que se encuentra una nueva plataforma para blog como lo es Ghost, hay que aclarar que este sistema tiene un poco de complegidad que no vamos hablar en este post :)
 image: https://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Logo.png
 Status: draft

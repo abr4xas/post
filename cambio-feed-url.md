@@ -4,6 +4,7 @@ Category: Blog
 Tags: Blog
 Slug: cambio-feed-url
 Author: abr4xas
+twitter: abr4xas
 Summary: Cambiando la dirección del feed...
 image: images/abr4xaslogo.jpg
 

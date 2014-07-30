@@ -4,6 +4,7 @@ Category: Linux
 Tags: Linux, Dev, Web, Pelican, Markdown
 Slug: pelican-setup-quickstart
 Author: abr4xas
+twitter: abr4xas
 Summary: Vamos a usar ```pelican-quickstart``` para generar nuestro blog y otras cosas...
 image: images/2043492.png
 

@@ -4,6 +4,7 @@ Category: Blog
 Tags: jekyll, bootstrap, blog, personal
 Slug: migracion-jekyll
 Author: abr4xas
+twitter: abr4xas
 Summary: Bueno si, nuevamente cambie el gestor de contenidos para el blog... 
 image: images/jekyll.png
 

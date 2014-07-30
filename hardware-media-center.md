@@ -4,6 +4,7 @@ Category: Gadget
 Tags: hardware
 Slug: hardware-media-center
 Author: abr4xas
+twitter: abr4xas
 Summary: Desde hace algun tiempo, los media center está de moda, no son más que equipos conectados...
 image: images/elementhdtv.jpg
 

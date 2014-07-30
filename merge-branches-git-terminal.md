@@ -4,6 +4,7 @@ Category: Git
 Tags: github, git, terminal
 Slug: merge-branches-git-terminal
 Author: abr4xas
+twitter: abr4xas
 Summary: Fusión de diferentes ramas git a través de la línea de comandos 
 image: http://cdn.appstorm.net/web.appstorm.net/files/2011/05/github_logo.png
 

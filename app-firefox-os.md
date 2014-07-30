@@ -4,6 +4,7 @@ Category: App
 Tags: firefox os, app
 Slug: app-firefox-os
 Author: abr4xas
+twitter: abr4xas
 Summary: Ya esta publicada la app para firefox os de dnb (drum and bass) :D
 image: images/Firefox-OS.png
 

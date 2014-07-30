@@ -4,6 +4,7 @@ Category: Freelance
 Tags: BootStrap,CSS,HTML,Plantillas,Diseño Web
 Slug: ayuda-plantilla-bootstrap
 Author: abr4xas
+twitter: abr4xas
 Summary: Necesitas ayuda con Twitter Bootstrap? Necesitas modificar algunas cosas para adpatar el diseño HTML a tus necesidades? Pues, yo puedo ayudarte con todo eso y más...
 image: images/bootstrap-logo.png
 

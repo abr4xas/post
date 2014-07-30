@@ -4,6 +4,7 @@ Category: Libertad
 Tags: Blog
 Slug: comunicado-libertad-neutralidad-red
 Author: abr4xas
+twitter: abr4xas
 Summary: Comunicado a favor de la libertad y neutralidad de la red
 image: images/abr4xaslogo.jpg
 
