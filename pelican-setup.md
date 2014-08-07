@@ -1,4 +1,4 @@
-Title: Pelican Setup part 1
+Title: Pelican Setup
 Date: 2014-07-21 10:20
 Category: Linux
 Tags: Linux, Dev, Web, Pelican
