@@ -5,7 +5,7 @@ Tags: bower, npm, web
 Slug: creating-packages-bower
 Author: abr4xas
 twitter: abr4xas
-Summary:  Bower, un simple y fácil gestor de paquetes para la web. Depende de Node y de NPM y funciona a través de consola
+Summary: Bower, un simple y fácil gestor de paquetes para la web. Depende de Node y de NPM y funciona a través de consola
 image: images/bower-logo.png
 
 
