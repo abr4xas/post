@@ -1,6 +1,6 @@
 Title: Como usar bower
 Date: 2014-08-11 10:20
-Category: Web
+Category: Web Linux
 Tags: bower, npm, web
 Slug: how-to-use-bower
 Author: abr4xas
