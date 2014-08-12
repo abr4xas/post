@@ -18,17 +18,25 @@ Las sagradas escrituras lo definen de la siguiente forma:
 
 Ciertamente en la red hay muchos tutoriales que nos hablan de:
 
-Gestores de podcast
-Como crear tu propio podcast
-Como hacer un podcast
+* Gestores de podcast
+* Como crear tu propio podcast
+* Como hacer un podcast
 
 Y ok, esta bien pero... En algún momento han pensado que también debemos contar con un hardware de calidad para realizar nuestros podcast?
 
 Debemos tener en cuenta muchas cosas a la hora de hacer la grabación entre ellas:
 
-Donde lo vamos hacer?
-¿Lo hacemos solo audio? ¿Audio y video?
+* Donde lo vamos hacer?
+* ¿Lo hacemos solo audio? 
+* ¿Audio y video?
 
 En este punto se desprende algo muy importante que es la razón de este post y es:
 
 ## ¿Contamos con el hardware necesario?
+
+* ¿Una buena webcam?
+* ¿Un buen headset?
+
+O si lo prefieren:
+
+* Un buen microfono
