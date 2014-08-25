@@ -21,7 +21,7 @@ Para los meses de Noviembre pasado la gente de ZTE lanzo su correspondiente actu
 El único detalle es que la ***ROM*** esta en ingles y pueden existir algunos cierres inesperados de las aplicaciones.
 
 
-![Alt Text]({filename}/images/2014-03-18-13-23-30.png)
+![Alt Text](https://raw.githubusercontent.com/abr4xas/post/master/images/2014-03-18-13-23-30.png)
 
 ## Enlaces de interés:
 Acá esta todo lo necesario para hacer la actualización: 

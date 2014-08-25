@@ -6,7 +6,7 @@ Slug: ayuda-plantilla-bootstrap
 Author: abr4xas
 twitter: abr4xas
 Summary: Necesitas ayuda con Twitter Bootstrap? Necesitas modificar algunas cosas para adpatar el diseño HTML a tus necesidades? Pues, yo puedo ayudarte con todo eso y más...
-image: images/bootstrap-logo.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/bootstrap-logo.png
 
 Necesitas ayuda con Twitter Bootstrap? Necesitas modificar algunas cosas basicas para adpatar el diseño HTML a tus necesidades? Pues, yo puedo ayudarte con todo eso y más...
 

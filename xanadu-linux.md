@@ -6,7 +6,7 @@ Slug: xanadu-linux
 Author: abr4xas
 twitter: abr4xas
 Summary: Derivado de Debian que utiliza SID como base y LXDE como entorno de escritorio, pensada para...
-image: images/xanadu-linux.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/xanadu-linux.png
 
 Es un derivado de Debian que utiliza SID como base y LXDE como entorno de escritorio, pensada para ser ligera y a la vez útil, contiene herramientas para rescate de sistemas, análisis forense y navegación anónima, además de todo lo necesario para su uso en el escritorio.
 

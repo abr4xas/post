@@ -8,7 +8,7 @@ twitter: abr4xas
 Summary: Una alternativa al archivo ```functions.php``` de los temas de wordpress. 
 image: https://m1.behance.net/rendition/projects/18025813/orig/852fb0aa1c50fd76d95ff2d6fdaad9a1.jpeg
 
-![Alt Text]({filename}/images/refu.png)
+![Alt Text](https://raw.githubusercontent.com/abr4xas/post/master/images/refu.png)
 
 Una alternativa al archivo ```functions.php```de los temas de wordpress. Realmente no es gran cosa, solo realiza las siguientes optimizaciones:
 

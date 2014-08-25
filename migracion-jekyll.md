@@ -6,7 +6,7 @@ Slug: migracion-jekyll
 Author: abr4xas
 twitter: abr4xas
 Summary: Bueno si, nuevamente cambie el gestor de contenidos para el blog... 
-image: images/jekyll.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/jekyll.png
 
 Bueno si, nuevamente cambie el gestor de contenidos para el blog... Espero mantenerme con el (si es que no encuentro otra cosa mejor xD)...
 

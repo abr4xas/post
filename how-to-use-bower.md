@@ -6,10 +6,10 @@ Slug: how-to-use-bower
 Author: abr4xas
 twitter: abr4xas
 Summary: Bower es un gestor de paquetes para las tecnologías del lado del cliente. Se puede utilizar para buscar, instalar, desinstalar activos web como JavaScript, HTML y CSS.
-image: images/RS5MKSa.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/RS5MKSa.png
 
 
-![Bower.io]({filename}/images/bower.png)
+![Bower.io](https://raw.githubusercontent.com/abr4xas/post/master/images/bower.png)
 
 Bower es un gestor de paquetes para las tecnologías del lado del cliente. Se puede utilizar para buscar, instalar, desinstalar activos web como JavaScript, HTML y CSS.
 

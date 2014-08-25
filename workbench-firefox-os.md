@@ -6,7 +6,7 @@ Slug: workbench-firefox-os
 Author: abr4xas
 twitter: abr4xas
 Summary: Script para preparar el entorno para compilar una ROM para Firefox OS [DEBIAN]
-image: images/Firefox-OS.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/Firefox-OS.png
 
 Script para preparar el entorno para compilar una ROM para Firefox OS [DEBIAN]
 

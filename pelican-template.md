@@ -6,7 +6,7 @@ Slug: pelican-template
 Author: abr4xas
 twitter: abr4xas
 Summary: Una plantilla para pelican usando bootstrap, aun con cosas por mejorar pero puede ser usada sin problemas :D
-image: images/2043492.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/2043492.png
 
 Ok, todo bien pero... ¿Que diablos es Pelican? Bueno, acá la respuesta:
 
@@ -15,7 +15,7 @@ Ok, todo bien pero... ¿Que diablos es Pelican? Bueno, acá la respuesta:
 El repo de la plantilla es [este](https://github.com/abr4xas/ptemplate "Repo de plantilla").
 
 
-<div class="alert alert-danger" role="alert">POR FAVOR, NO AGREGARLO COMO UN SUBMODULO... SE RECOMIENDA HACER UN <code>FORK</code> Y A PARTIR DE AHÍ HACER LO CONVENIENTE</div>
+POR FAVOR, NO AGREGARLO COMO UN SUBMODULO... SE RECOMIENDA HACER UN <code>FORK</code> Y A PARTIR DE AHÍ HACER LO CONVENIENTE.
 
 
 
@@ -61,8 +61,8 @@ De verdad, muchas gracias por usarlo.
 
 ### v0.2 de la plantilla
 Descarga: [aquí](https://github.com/abr4xas/ptemplate/archive/v0.2.zip "Descargar")
-![Alt Text]({filename}/images/blog2.png)
+![Alt Text](https://raw.githubusercontent.com/abr4xas/post/master/images/blog2.png)
 
 ### v0.1 de la plantilla
 Descarga: [aquí](https://github.com/abr4xas/ptemplate/archive/v0.1.zip "Descargar")
-![Alt Text]({filename}/images/blog.png)
+![Alt Text](https://raw.githubusercontent.com/abr4xas/post/master/images/blog.png)

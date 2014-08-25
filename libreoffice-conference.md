@@ -6,9 +6,9 @@ Slug: libreoffice-conference
 Author: NaudyU
 twitter: naudyu
 Summary: La Conferencia de LibreOffice es la anual, es una reunión de la Comunidad LibreOffice en todo el mundo y participan desarrolladores, comercializadores,  usuarios finales y los partidarios interesados.
-image: images/LibreOffice.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/LibreOffice.png
 
-![Libre Office Conferencia 2014](/images/libreoffice-conferencia-2014.png)
+![Libre Office Conferencia 2014](https://raw.githubusercontent.com/abr4xas/post/master/images/libreoffice-conferencia-2014.png)
 
  La Conferencia de LibreOffice es la anual, es una reunión de la Comunidad LibreOffice en todo el mundo y participan desarrolladores, comercializadores,  usuarios finales y los partidarios interesados.
 

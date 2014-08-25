@@ -6,7 +6,7 @@ Slug: defer-loadind-javascript
 Author: abr4xas
 twitter: abr4xas
 Summary: Hagamos un verdadero defer a la carga del javascript
-image: images/javascript_logo_unofficial-200x200.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/javascript_logo_unofficial-200x200.png
 
 Hacer defer el javascript es uno de esos temas que preocupan a quienes tienen una pagina web en cuanto al tema de la optimización de la misma.
 
@@ -18,7 +18,7 @@ Hay gente que hace esto:
 ```     
 O también te encuentras con quienes dicen que uses async o que lo pongas al final de la pagina para todos ellos les tengo noticias:
 
-# ESO NO FUNCIONA
+## ESO NO FUNCIONA
 Google, en su gran sabiduría nos deja este script:
 ```javascript
 <script type="text/javascript">
