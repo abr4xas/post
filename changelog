@@ -1,0 +1,547 @@
+commit 7ea80974acfc22afaad3e49de85895b9bf4b87be
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Aug 26 14:01:45 2014 -0430
+
+    Se actualiza README
+
+commit acc8fdcb9f7e7b684321b2bf34407d7308d5262e
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Aug 26 13:59:56 2014 -0430
+
+    Actualizando publicaciones
+
+commit 44eb32a1201063116cfecaa09299941186a13ec0
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Aug 21 12:38:28 2014 -0430
+
+    Nueva publicación.
+    Tambien se elimina extra/ y su contenido.
+
+commit a9fecf6b7325efa095fd8b1137f7ac38d97e9e78
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Aug 21 10:29:26 2014 -0430
+
+    Nueva publicación.
+    Se agrega un nuevo post
+
+commit 1ecf8272391e38da047301fc24a7b8f6cc04de66
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Aug 21 08:54:28 2014 -0430
+
+    deleted
+
+commit 2adef1458477a6a9590cca468e40bd615f6ab09f
+Author: ángel <bullgram@gmail.com>
+Date:   Sat Aug 16 21:20:14 2014 -0430
+
+    Nueva publicación
+    
+    Se agrega parte de un nuevo post
+
+commit 865913ba84af032c4e9bb993ecb3b7d4f42c0ccf
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Aug 12 16:44:20 2014 -0430
+
+    renamed
+
+commit 607f467415fb593ba12b29cb0bcaa80ee652b9d8
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Aug 12 16:42:32 2014 -0430
+
+    Actualizado
+
+commit d865299a010427abfb3a93957d5d6b86fc413030
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Aug 12 16:05:17 2014 -0430
+
+    Actualizado.
+
+commit 55f695c750836d53c9686c7c5cc2f8690c046450
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Aug 12 15:44:25 2014 -0430
+
+    Nuevo contenido
+
+commit 9ddeb3bc8d8b28af22cd9a32980b0d86d73110d4
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Aug 11 13:57:15 2014 -0430
+
+    Actualizando post
+
+commit 5a65bb0c92988c8030feb346c1ec36794b81a5c5
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Aug 7 12:53:52 2014 -0430
+
+    Actualizado.
+    Se actualiza post y se agrega imagen destacada.
+
+commit 87df826c8010a8dcd0c5f6f386ac2f9f1da80bd3
+Author: ángel <bullgram@gmail.com>
+Date:   Sat Aug 2 18:05:03 2014 -0430
+
+    Actualizado post
+    
+    Fix typo fecha y hora de la publicación.
+
+commit be1c25e014a94b00b9e25df10d7754ed329d3fa8
+Author: ángel <bullgram@gmail.com>
+Date:   Sat Aug 2 18:03:23 2014 -0430
+
+    Se agrega un nuevo post
+    
+    Se crea la publicación refu-wp-plugin.md
+
+commit 79d099f528d55bcd6ae13caea48977c6d6ceee7d
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 30 10:57:04 2014 -0430
+
+    Actualizadondo README
+
+commit 5792071e428e6ec91c1ac568a74fb93313defb33
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 30 10:55:20 2014 -0430
+
+    Actualizado
+
+commit d78eaaf4f974a41c5c970b90c3dcfb6c575f2fdb
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 30 08:58:42 2014 -0430
+
+    Actualizado.
+    Se agrega variable "twitter" para que los autores coloquen su username.
+
+commit 0fbd2996f155b532dfcf150c22ab0819f9556a9d
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Jul 29 11:19:29 2014 -0430
+
+    Nueva publicacion.
+
+commit 2625daf7491b26d239585270aa864eabdff597a2
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Jul 29 10:22:31 2014 -0430
+
+    Actualizado.
+    Se realizan actualizaciones en los post
+
+commit 8041d944d10dbed9fddc487ae250445122bb885d
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Jul 29 08:57:21 2014 -0430
+
+    Actualizados.
+    
+    Se actualizan post.
+
+commit 6ba3abe4af2ee5002096eb05f4a6e0b6f3e4b62e
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jul 25 09:57:03 2014 -0430
+
+    Actualizando post.
+    Se actualiza post y la imagen destacada.
+
+commit 7a57ea882ef2352f7a7ed1dd475c9284cbd921ca
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 23 15:56:28 2014 -0430
+
+    Actualizado
+
+commit ac6443dd6b31077d52cf3c5919c78801c6a02928
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 23 15:55:23 2014 -0430
+
+    Actualizando post.
+    Se agrega imagen destacada
+
+commit 2641be7fb4dfc7350813dd71f273c67084764877
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 23 09:15:55 2014 -0430
+
+    Actualizando Post
+
+commit 9f0a8c0e1a784d8c2fdbec1b09435df48708843d
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jul 21 13:39:22 2014 -0430
+
+    Actualizado.
+    Se agrega enlace relacionado
+
+commit 84877f42e8e1a9f4247bfda617f1a33c2f933257
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jul 21 13:27:53 2014 -0430
+
+    actualizado
+
+commit 8ece653d06d6e79f25c47411b0ad8135630330a4
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jul 21 12:08:37 2014 -0430
+
+    Nuevo post
+
+commit 92cc6bde3ecbf8363cd0b7c9d3ae8da48ea60444
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jul 21 12:08:22 2014 -0430
+
+    Actualizado
+
+commit ac7044dc4d2c72ce10663c75adf466da1459eee1
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jul 21 11:35:07 2014 -0430
+
+    Post nuevo.
+
+commit d562959f5ee0bc276897d8610aa832715e14f24e
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jul 18 09:00:42 2014 -0430
+
+    Actualizado post
+
+commit 130c76c1759c927f9e863efcf9995284b75d00b5
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jul 18 08:40:43 2014 -0430
+
+    Actualizado post.
+    
+    Se agrega informacion del tamaño de las imagenes para los post
+
+commit 29eb78b0fb415a3b6db30802b81c96401b2f4aeb
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jul 18 08:30:54 2014 -0430
+
+    Actualizando post.
+    
+    Se actualiza contenido
+
+commit 9e66586e5607ca96225929b92644f1c3945ea19f
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jul 17 16:50:28 2014 -0430
+
+    post actualizado.
+    Se agrega imagen destacada
+
+commit 2f58b307b9cff1dd9a070d09471c001985adac99
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jul 17 16:22:58 2014 -0430
+
+    nuevo post
+
+commit f75b63ad4d56232f87bcd1e2ed15a1f125cde723
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jul 17 12:37:45 2014 -0430
+
+    Actualizado post.
+    
+    Se agrega enlace de descargas.
+
+commit 316b69d61c1156cecdc928cd176655e4b105be1b
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 16 16:35:12 2014 -0430
+
+    post actualizado
+    
+    Se agregan imagenes referenciales
+
+commit bb115a9be1aa4a10b52d23ba0927f74a0918a87a
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Jul 15 12:41:06 2014 -0430
+
+    actualizada información
+
+commit cd656ad7bbd55ea7eee6b1f00cfc11170777dc7a
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jul 14 16:32:27 2014 -0430
+
+    nueva publicación
+
+commit 826eec8904432f900fd78e659a5449dab67ab6f0
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jul 14 15:51:23 2014 -0430
+
+    actualizada url del repo
+
+commit 3adcbddb212d591987a276c0a94459986851b12d
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jul 14 08:55:39 2014 -0430
+
+    actualizado post e imagen destacada
+
+commit aeebc56d637b57600832ef13d797e57d16010fbb
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jul 11 16:18:45 2014 -0430
+
+    update post
+
+commit 027e2e3a0df2af9e27e0cd56bff54aab8933136b
+Merge: 4a2e571 fe443ae
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jul 11 10:05:41 2014 -0430
+
+    Merge branch 'master' of https://github.com/abr4xas/post
+
+commit 4a2e57148dc05bdad4b60ed37623ee2cddfeb72b
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jul 11 10:05:09 2014 -0430
+
+    new post
+
+commit fe443ae5376da1970357685cdd49e8eee902a3c5
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jul 10 16:41:06 2014 -0430
+
+    update URL
+
+commit 4c112af7921c8f2f19ceaa0fb7a910b1eba7e58d
+Merge: 6490f07 a342778
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jul 10 09:00:49 2014 -0430
+
+    Merge branch 'master' of https://github.com/abr4xas/post
+
+commit 6490f07e6582a228dbd170e12462204af520f7f0
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jul 10 08:59:39 2014 -0430
+
+    update URL
+
+commit a342778ec9adfeae9ebc68121d1f0631def7578f
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Jul 8 09:12:25 2014 -0430
+
+    modificado
+
+commit f7b72043c44d7cdc59ec631d4077daf627faa167
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Jul 8 08:07:36 2014 -0430
+
+    update post
+
+commit c70cb843dbe2e67b0cbee6e64fe6dc5968d2edfd
+Author: ángel <bullgram@gmail.com>
+Date:   Sat Jul 5 12:43:04 2014 -0430
+
+    Update README.md
+
+commit 55910ba3483b4f40d9ab1e02335da683dbc39dfa
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jul 4 14:34:31 2014 -0430
+
+    modificado
+
+commit cd466ba1c366f1d0fbca5b5dcd87d813e14c26b3
+Merge: 83c0655 828dc4b
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jul 3 12:09:58 2014 -0430
+
+    Merge branch 'master' of https://github.com/abr4xas/post
+
+commit 83c0655117720117c5be9ae44ea07d705679e1d5
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jul 3 12:05:43 2014 -0430
+
+    new file
+
+commit 2f8e7a801f43459cc4cfa19fd2c0009c5ede6d40
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jul 3 11:45:29 2014 -0430
+
+    fix post
+
+commit 828dc4b4c0bc6ab4ec9b361c7b16717551202804
+Author: ángel <bullgram@gmail.com>
+Date:   Thu Jul 3 11:40:20 2014 -0430
+
+    Update README.md
+
+commit 58b23c637424d44eb41ea21cdd97f900ba8a1bd9
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jul 3 11:26:45 2014 -0430
+
+    new file: contribute
+
+commit 03d225e675b6908d2609b09e1fee70a8893bf2d1
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 2 15:34:18 2014 -0430
+
+    fix typo
+
+commit 613a08322eb74e566428995c4ead6945a476a59d
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 2 12:25:45 2014 -0430
+
+    se agregan enlaces de referencia
+
+commit 59abb829eba1b9e3483d1dec0f99b0394c20988d
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 2 12:17:26 2014 -0430
+
+    new file
+
+commit f75821dd3e5846cdc6b2e7c2b4217a70693283fd
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 2 11:26:59 2014 -0430
+
+    Update+ GitHub pages CNAME
+
+commit 655e6e68d96dd6764a8803aff79182b1559bf274
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 2 11:19:59 2014 -0430
+
+    typo
+
+commit eded3463d6f653623e775b7b2f81775971e2a744
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 2 11:15:04 2014 -0430
+
+    modificado
+
+commit 4834207a46fcfca1176d91a7b67b9a348650e7f5
+Merge: 0ff7f85 dad40e1
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Jul 1 12:28:16 2014 -0430
+
+    Merge branch 'master' of https://github.com/abr4xas/post
+
+commit 0ff7f8529de7c3041690ebe1edc984b7433ce5bd
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Jul 1 12:27:25 2014 -0430
+
+    new file
+
+commit dad40e148b49a93165ea4a0a908507a183938db0
+Author: ángel <bullgram@gmail.com>
+Date:   Mon Jun 30 11:17:06 2014 -0430
+
+    Update README.md
+    
+    Se agrega campo image a la estructura del post
+
+commit 96ef6bbbe9cc50499df855ee7a4273015abf30fa
+Author: ángel <bullgram@gmail.com>
+Date:   Mon Jun 30 11:03:21 2014 -0430
+
+    Update README.md
+
+commit 3b7913410a3bc270a7427749e90cbcf46b014437
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jun 26 14:06:05 2014 -0430
+
+    typo
+
+commit 519efc83b1dad2107364b8d6bb3e5c5bd90aa2d6
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jun 26 12:13:11 2014 -0430
+
+    modificado
+
+commit 52ea63c103bcd07a44a084ff83c706ada5151263
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jun 26 09:02:08 2014 -0430
+
+    renamed
+
+commit ea816a6248aada5c657aaed7bd8a190d4f552456
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jun 25 15:43:21 2014 -0430
+
+    Actualizada la licencia
+
+commit 26e18530cb438f23cae7175707ff975701d4864d
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jun 25 15:39:38 2014 -0430
+
+    new file
+
+commit 719736c276914a511f7355fd07678341e6f37b7a
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jun 25 14:32:24 2014 -0430
+
+    deleted
+
+commit 288f4c1f18de1e98756142daec79a43046a1ad10
+Author: abr4xas <bullgram@gmail.com>
+Date:   Mon Sep 2 21:46:53 2013 -0430
+
+    new file
+
+commit 47fa9c103a3c21c0240aeb313a5313a6f790722a
+Author: abr4xas <bullgram@gmail.com>
+Date:   Mon Sep 2 11:06:41 2013 -0430
+
+    new file
+
+commit 078e41b71491ed35f8be7211a487c180e097348b
+Author: abr4xas <bullgram@gmail.com>
+Date:   Mon Sep 2 08:29:19 2013 -0430
+
+    new file
+
+commit 1a5678e81dbd4137497719057d1309ecea50bf1e
+Author: abr4xas <bullgram@gmail.com>
+Date:   Thu Aug 29 22:50:51 2013 -0430
+
+    actualizado
+
+commit 54ed9c00bf7ec08dd679cdd758dff5c1dbe48f42
+Author: abr4xas <bullgram@gmail.com>
+Date:   Thu Aug 29 22:41:45 2013 -0430
+
+    actualizaso
+
+commit ff5d004dc61a2a5ea46921d349bc9e236c7630be
+Merge: db72887 ce42f39
+Author: abr4xas <bullgram@gmail.com>
+Date:   Thu Aug 29 14:47:39 2013 -0430
+
+    Combinando rama 'master' of https://github.com/abr4xas/post
+
+commit db72887f34c6f385c711cac5137f823bb9a3a202
+Author: abr4xas <bullgram@gmail.com>
+Date:   Thu Aug 29 14:47:05 2013 -0430
+
+    update
+
+commit ce42f3939671d56589b4785dc009d2055ba140a2
+Author: abr4xas <bullgram@gmail.com>
+Date:   Wed Aug 14 07:20:46 2013 -0430
+
+    modificado
+
+commit 8c2a294ea7eadb8fe59b5744b47ac2aebe6d9b32
+Author: abr4xas <bullgram@gmail.com>
+Date:   Tue Aug 13 14:15:00 2013 -0430
+
+    eliminado .htaccess
+
+commit 0b546f6c030cc789e139410ea7d5d3b76b18ff4b
+Author: abr4xas <bullgram@gmail.com>
+Date:   Fri Aug 9 11:03:49 2013 -0430
+
+    new file
+
+commit 8b96d1c2688427fbc777b56c22599140509059bf
+Author: abr4xas <bullgram@gmail.com>
+Date:   Fri Aug 9 08:48:11 2013 -0430
+
+    new file
+
+commit bfe5b3d2d6429b5030daa0c14552089b13d2c824
+Author: abr4xas <bullgram@gmail.com>
+Date:   Tue Aug 6 14:25:46 2013 -0430
+
+    new file
+
+commit c47eee9aefdeadf34e0b411639c5f06a1d398644
+Author: abr4xas <bullgram@gmail.com>
+Date:   Fri Aug 2 08:27:24 2013 -0430
+
+    actualizacion
+
+commit 580d8a4539709921796925c39c3650677cdd3758
+Author: abr4xas <bullgram@gmail.com>
+Date:   Fri Aug 2 08:14:46 2013 -0430
+
+    primeros aportes
+
+commit 1bcae7d203df4d57859afa96e3a4f63b793ec9f2
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Aug 2 05:41:08 2013 -0700
+
+    Initial commit
