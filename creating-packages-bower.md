@@ -6,10 +6,10 @@ Slug: creating-packages-bower
 Author: abr4xas
 twitter: abr4xas
 Summary: Bower, un simple y fácil gestor de paquetes para la web. Depende de Node y de NPM y funciona a través de consola
-image: images/bower-logo.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/bower-logo.png
 
 
-![Bower.io]({filename}/images/bower.png)
+![Bower.io](https://raw.githubusercontent.com/abr4xas/post/master/images/bower.png)
 
 Bower, un simple y fácil gestor de paquetes para la web. Depende de Node y de NPM y funciona a través de consola, se puede instalar fácilmente así:
 

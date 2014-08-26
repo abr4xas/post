@@ -6,7 +6,7 @@ Slug: pelican-setup
 Author: abr4xas
 twitter: abr4xas
 Summary: Pelican es un generador estático de contenido, al estilo de Jekyll. Por si fuera necesario, en [Static Site Generators](http://staticsitegenerators.net/) hay una recopilación de proyectos similares.
-image: images/2043492.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/2043492.png
 
 Pelican es un generador estático de contenido, al estilo de Jekyll. Por si fuera necesario, en [Static Site Generators](http://staticsitegenerators.net/) hay una recopilación de proyectos similares.
 

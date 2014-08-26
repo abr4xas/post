@@ -6,7 +6,7 @@ Slug: run-php-code
 Author: abr4xas
 twitter: abr4xas
 Summary: Este script le da la capacidad para probar rápidamente fragmentos de código PHP
-image: images/php_logo_200_200.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/php_logo_200_200.png
 
  Este script le da la capacidad para probar rápidamente fragmentos de código PHP localmente. Se requiere un servidor apache local.
  

@@ -6,7 +6,7 @@ Slug: hardware-media-center
 Author: abr4xas
 twitter: abr4xas
 Summary: Desde hace algun tiempo, los media center está de moda, no son más que equipos conectados...
-image: images/elementhdtv.jpg
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/elementhdtv.jpg
 
 Desde hace algun tiempo, los media center está de moda, no son más que equipos conectados al televisor que sirven como reproductor multimedia de audio/vídeo, muchos de nosotros en algun momento nos planteamos el hacer un media center algunos lo logran otros, simplemente nos preocupamos en las caracteristicas del equipo donde lo vamos a montar y esta es la razón de este post.
 

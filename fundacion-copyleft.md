@@ -6,7 +6,7 @@ Slug: fundacion-copyleft
 Author: abr4xas
 twitter: abr4xas
 Summary: La Fundación Copyleft nace para potenciar y defender la producción de arte, cultura y...
-image: images/fundacion-copyleft.jpg
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/fundacion-copyleft.jpg
 
 La Fundación Copyleft nace para potenciar y defender la producción de arte, cultura y ciencia bajo licencias copyleft.
 

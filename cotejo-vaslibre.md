@@ -8,7 +8,7 @@ twitter: vaslibre
 Summary: Hemos estado pensando en relanzar nuevamente a Cotejo la revista de VaSlibre. El único requisito es que sea sobre software libre o hardware libre.
 image: http://vaslibre.org.ve/img/vaslibre_log.png
 
-![Alt Text]({filename}/images/vaslibre.svg)
+![Alt Text](http://www.vaslibre.org.ve/logo/vaslibre_468_60.png)
 
 "*Desde que VaSLibre comenzara a trabajar, allá por el año 2005, como un grupo pequeño de activistas del Software Libre, han recorrido un camino largo, a veces complicado, a veces fácil, pero lleno de satisfacción por lo que han logrado.*" 
 "*En este sZine, cariñosamente llamado Cotejo, entregamos parte de lo que hemos hecho, y queremos seguir haciendo y siendo para aquellas personas que se interesan por el Software Libre, esperamos poco a poco, contruir una referencia más en la difusión del conocimiento*"

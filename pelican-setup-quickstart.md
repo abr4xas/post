@@ -6,7 +6,7 @@ Slug: pelican-setup-quickstart
 Author: abr4xas
 twitter: abr4xas
 Summary: Vamos a usar ```pelican-quickstart``` para generar nuestro blog y otras cosas...
-image: images/2043492.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/2043492.png
 
 Dentro de nuestro directorio ```~/virtualenv/pelican``` escribimos ```pelican-quickstart``` y seguimos todas las preguntas que nos hace el script
 
@@ -41,7 +41,7 @@ Done. Your new project is available at /home/abr4xas/virtualenv/pelican
 ```
 Para iniciar pelican debemos escribir ```make devserver``` y luego debemos ir a ```http://localhost:8000``` y veremos algo parecido a esto:
 
-![Alt Text]({filename}/images/pelican1.png)
+![Alt Text](https://raw.githubusercontent.com/abr4xas/post/master/images/pelican1.png)
 
 ## Escribir un post
 

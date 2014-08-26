@@ -6,7 +6,7 @@ Slug: bitcoin-machine
 Author: abr4xas
 twitter: abr4xas
 Summary: Your Bitcoin mining machine. Join the gold rush now! ASRock H81 Pro BTC Bitcoin/Litecoin...
-image: images/bitconlogo.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/bitconlogo.png
 
 # AsRock, AsRock... Tu si sabes como hacernos felices!!
 

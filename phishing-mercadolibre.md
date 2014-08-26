@@ -6,7 +6,7 @@ Slug: phishing-mercadolibre
 Author: abr4xas
 twitter: abr4xas
 Summary: Para los que venden en MERCADOLIBRE (IMPORTANTE) Phishing...
-image: images/Mercado_libre_logo.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/Mercado_libre_logo.png
 
 Para los que venden en MERCADOLIBRE (IMPORTANTE) Phishing. Aparentemente este es un nuevo modus operandi para estafar a través de MercadoLibre.com.ve lo que hacen o lo que me hicieron fue ofertar por el articulo que publique, al rato me llegaron unos datos mas falsos que un billete de 3 Bs.
 
