@@ -1,4 +1,4 @@
-
+<img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/1375758_1378127522423533_1335788860_n.jpg" alt="abr4xas.org">
 **abr4xas.org** usa *[Pelican](http://blog.getpelican.com/)* un generador de sitios web estático y esta alojado en github.
 
 Lo unico necesario para ayudar es:
@@ -6,7 +6,7 @@ Lo unico necesario para ayudar es:
 * conocimientos sobre ```git```
 * una cuenta en github para poder hacer ```fork``` y enviar los Pull Request.
 
-## Repo: *[Post](https://github.com/abr4xas/post)*
+### * [Post](https://github.com/abr4xas/post)
 
 Este repo cuenta con las siguientes caracteristicas:
 
@@ -27,7 +27,6 @@ A partir de aquí, el contenido del post...
 
 
 ![Alt Text]({filename}/images/nombre-de-la-imagen.png)
-
 
 ```
 
