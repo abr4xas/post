@@ -5,7 +5,7 @@ Tags: dev, git
 Slug: git-submodule-error
 Author: abr4xas
 twitter: abr4xas
-Summary: Los submódulos en git permiten insertar uno o más repositorios externos dentro de otro repositorio. Es decir, permiten manejar uno o varios subproyectos dentro de un gran proyecto versionado con git. Esta característica puede ser útil, por ejemplo, para referenciar archivos que estén en proyectos complementarios, pero administrados por diferentes grupos o personas.
+Summary: Los submódulos en git permiten insertar uno o más repositorios externos dentro de otro repositorio. 
 image: https://raw.githubusercontent.com/abr4xas/post/master/images/git.png
 
 
