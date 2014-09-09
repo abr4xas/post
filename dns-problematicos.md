@@ -6,7 +6,7 @@ Slug: dns-problematicos
 Author: abr4xas
 twitter: abr4xas
 Summary: Hace un par de semanas de forma "misteriosa" no podia ingresar al blog y varias personas me habian notificado este inconveniente y me puse a investigar que pasaba...
-image: https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/1375758_1378127522423533_1335788860_n.jpg
+image: https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/1375758_1378127522423533_1335788860_n.jpg?oh=9f7bec2a89fff75e79a4ad4b9169fd62&oe=54961FB2&__gda__=1419779311_d6eaf22842db7dd57e0f75fbb7a6ffc9
 
 Hace un par de semanas de forma "misteriosa" no podia ingresar al blog y varias personas me habian notificado este inconveniente y me puse a investigar que pasaba...
 
