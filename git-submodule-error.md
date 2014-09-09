@@ -6,7 +6,7 @@ Slug: git-submodule-error
 Author: abr4xas
 twitter: abr4xas
 Summary: Los submódulos en git permiten insertar uno o más repositorios externos dentro de otro repositorio. 
-image: https://raw.githubusercontent.com/abr4xas/post/master/images/git.png
+image: http://blog.x-aeon.com/wp-content/uploads/2011/11/Git-Logo-2Color-910x198.png
 
 
 ![Alt Text](http://blog.x-aeon.com/wp-content/uploads/2011/11/Git-Logo-2Color-910x198.png)
