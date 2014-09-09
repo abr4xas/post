@@ -5,8 +5,7 @@ Tags: Evento, AppleLive, Apple
 Slug: apple-event
 Author: abr4xas
 twitter: abr4xas
-Summary: Durante el evento de Apple en los que van a presentarse presumiblemente los nuevos iPhone, 
-el esperado wearable, y quizas alguna sorpresa más...
+Summary: Durante el evento de Apple en los que van a presentarse presumiblemente los nuevos iPhone, el esperado wearable, y quizas alguna sorpresa más...
 image: https://pbs.twimg.com/media/BxGKWphIcAA2p5z.jpg
 
 ## Los nuevos iPhones
