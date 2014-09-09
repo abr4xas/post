@@ -16,6 +16,7 @@ image: https://pbs.twimg.com/media/BxGKWphIcAA2p5z.jpg
 ## Nuevos co-procesadores
 
 ![Procesadores](https://pbs.twimg.com/media/BxG5zZCCQAAB-GP.jpg)
+
 ![Procesador A8](https://pbs.twimg.com/media/BxG7PG2IMAENR1v.jpg)
 
 ## Llamadas por WiFi
@@ -42,3 +43,7 @@ image: https://pbs.twimg.com/media/BxGKWphIcAA2p5z.jpg
 
 ## Apple Play
 ![Apple Play](https://pbs.twimg.com/media/BxG_BacIgAAxIbL.jpg)
+
+## One more thing...
+
+![AppleWatch](https://pbs.twimg.com/media/BxHBqpWIEAAy11G.jpg)
