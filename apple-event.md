@@ -52,7 +52,8 @@ Hoy es el evento de Apple en los que van a presentarse presumiblemente los nuevo
 
 ## One more thing...
 
-Esta fue la gran sorpresa... Apple Watch estará integrado con Siri y la pantalla es táctil
+Esta fue la gran sorpresa... Apple Watch estará integrado con Siri y la pantalla es táctil.
+El SmartWatch costará $349 y podrá ser adquirido desde el próximo año.
 
 ![iWatch](https://pbs.twimg.com/media/BxHDO0eIMAAzi4K.jpg)
 
