@@ -47,11 +47,15 @@ Hoy es el evento de Apple en los que van a presentarse presumiblemente los nuevo
 
 ![Precios](https://pbs.twimg.com/media/BxG-j2aIEAEELXr.jpg)
 
-## Apple Play
-![Apple Play](https://pbs.twimg.com/media/BxG_BacIgAAxIbL.jpg)
+## Apple Pay
+![Apple Pay](https://pbs.twimg.com/media/BxG_BacIgAAxIbL.jpg)
 
 ## One more thing...
 
 Esta fue la gran sorpresa... Apple Watch estará integrado con Siri y la pantalla es táctil
 
 ![iWatch](https://pbs.twimg.com/media/BxHDO0eIMAAzi4K.jpg)
+
+Estos son otros modelos del iWatch
+
+![Apple Watch](https://pbs.twimg.com/media/BxHH2IvCUAAb1GW.jpg)
