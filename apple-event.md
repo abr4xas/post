@@ -8,6 +8,12 @@ twitter: abr4xas
 Summary: Durante el evento de Apple en los que van a presentarse presumiblemente los nuevos iPhone, el esperado wearable, y quizas alguna sorpresa más...
 image: https://pbs.twimg.com/media/BxGKWphIcAA2p5z.jpg
 
+![Apple Event](https://pbs.twimg.com/media/BxGKWphIcAA2p5z.jpg)
+
+Hoy es el evento de Apple en los que van a presentarse presumiblemente los nuevos iPhone, el esperado wearable, y quizas alguna sorpresa más...
+
+
+
 ## Los nuevos iPhones
 
 ![Nuevos iPhones](https://pbs.twimg.com/media/BxG3fD7IEAAD-xh.jpg)
@@ -46,4 +52,6 @@ image: https://pbs.twimg.com/media/BxGKWphIcAA2p5z.jpg
 
 ## One more thing...
 
-![AppleWatch](https://pbs.twimg.com/media/BxHBqpWIEAAy11G.jpg)
+Esta fue la gran sorpresa... Apple Watch estará integrado con Siri y la pantalla es táctil
+
+![iWatch](https://pbs.twimg.com/media/BxHDO0eIMAAzi4K.jpg)
