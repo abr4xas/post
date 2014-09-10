@@ -6,7 +6,7 @@ Slug: froala-editor
 Author: abr4xas
 twitter: abr4xas
 Summary: Froala WYSIWYG Editor se basa en las últimas tecnologías y de acuerdo a las últimas tendencias.
-image: https://raw.githubusercontent.com/abr4xas/post/master/images/editorfroala.png
+image: https://raw.githubusercontent.com/abr4xas/post/master/images/froalalogo.png
 
 ![Alt Text](https://raw.githubusercontent.com/abr4xas/post/master/images/froalalogo.png)
 
