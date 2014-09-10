@@ -5,7 +5,7 @@ Tags: hardware, gadget, podcast, linux, web
 Slug: neceidades-podcast
 Author: abr4xas
 twitter: abr4xas
-Summary: Las sagradas escrituras lo definen de la siguiente forma: "El podcasting consiste en la distribución de archivos multimedia (normalmente audio o vídeo, que puede incluir texto como subtítulos y notas) mediante un sistema de redifusión (RSS) que permita opcionalmente suscribirse y usar un programa que lo descarga para que el usuario lo escuche."
+Summary: Las sagradas escrituras lo definen de la siguiente forma: "El podcasting consiste en la distribución de archivos multimedia..."
 image: https://raw.githubusercontent.com/abr4xas/post/master/images/podcasts.jpg
 
 
