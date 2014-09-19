@@ -27,13 +27,18 @@ De seguro piensan que los lectores de feed hacen esto y si, ciertamente pero he 
 
 ### Quieres suscribirte a la lista?
 
-Pues, en la barra lateral y al final del post hay un pequeño formulario "Subscribe to our mailing list" coloca tu correo electronico y espera el correo de confirmación.
+Pues, en la barra lateral y al final del post hay un pequeño formulario <del>"Subscribe to our mailing list"</del> <strong>"Join our awesome newsletter!"</strong> coloca tu correo electronico y espera el correo de confirmación.
 
 ¡Gracias por unirte!
 
 ### Sobre el feed
 
 Otros de los cambios que hice en el blog fue relacionado con el feed, anteriormente habia hecho un post donde indicaba que [habia cambiado la url del feed](http://blog.abr4xas.org/cambio-feed-url.html) a feedburner pero me percate de unos problemas que no pude solventar y por eso les pido disculpas y los invito a que me agreguen a sus lectores de feed usando este enlace: [http://blog.abr4xas.org/feeds/all.atom.xml](http://blog.abr4xas.org/feeds/all.atom.xml)  o si usan feedly haciendo clic <a href="http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fblog.abr4xas.org%2Ffeeds%2Fall.atom.xml" target="_blank">aquí</a>.
+
+#### UPDATE
+
+Ya la url del feedburner esta funcional, realmente nunca pude descubrir que pasaba pero en fin, si es de su preferencia sigan este [enlace](http://blog.abr4xas.org/cambio-feed-url.html) para saber mas.
+
 
 ### Contribuir
 
