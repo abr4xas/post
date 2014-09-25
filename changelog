@@ -1,3 +1,154 @@
+commit 0b96cd348fa8c08fc7a4960e0cf141e025b1d1f8
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Sep 22 16:09:06 2014 -0400
+
+    new file
+
+commit c3ce53168ffa69bcbae531eb30ac58a288c58ac8
+Author: ángel <bullgram@gmail.com>
+Date:   Sun Sep 21 17:42:15 2014 -0430
+
+    Update xanadu-linux-update.md
+
+commit bb873415a9c96825dd50279557508e159b10ba23
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Sep 21 18:09:54 2014 -0400
+
+    new file
+
+commit 68eccde07876c2904f691515971355b9b55f087a
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Sep 19 09:44:52 2014 -0400
+
+    actualizado
+
+commit 8407d72222f27f293e0251c188ae190469a95dfb
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Sep 16 10:19:49 2014 -0400
+
+    new file
+
+commit 53c7519c435a664d710afa5afcd6a88258b5a71e
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 21:27:30 2014 -0430
+
+    Update neceidades-podcast.md
+
+commit 1aa2a25d73cbc85986625022152f92503aba5310
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 21:25:24 2014 -0430
+
+    Update neceidades-podcast.md
+
+commit e4f23a5cd69dae2e1b47e7751ba8cc5c3f8aadf5
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 21:24:36 2014 -0430
+
+    Update froala-editor.md
+
+commit a6409659a1ba6e64dc014f1ba4781610db7f25fa
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 18:45:42 2014 +0000
+
+    Update apple-event.md
+
+commit d14887c9b6063b4c3f8ee475b0bf348d7d48e00a
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 18:31:26 2014 +0000
+
+    Update apple-event.md
+
+commit 9c03ff6c8994e103436348c409062bac9481a3a9
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 18:10:53 2014 +0000
+
+    Update apple-event.md
+
+commit ec06d78e50358d285a0b8f9adbd9a50a46204612
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 18:03:09 2014 +0000
+
+    Update apple-event.md
+
+commit db4ef38c766fd0470a33b6d4915891addbc2055c
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 17:58:04 2014 +0000
+
+    Updat apple-event.md
+
+commit 0b55df2b94cd0d8b6b16ab2a5a45b963d2b4d86c
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 17:55:08 2014 +0000
+
+    Updat apple-event.md
+
+commit 5550ec77a31464f4b85e13d674e2bcb4c592c8fe
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 17:25:31 2014 +0000
+
+    Create apple-event.md
+
+commit 67ae9960270079fe61ce19742d196272886223e7
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 15:28:43 2014 +0000
+
+    update
+
+commit 067555ad10b0ae543ee2a71590bb06aa44c3f0e2
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 15:28:20 2014 +0000
+
+    update
+
+commit 4b2ec6675b30eb4218cf603f99e7951af1f5b79d
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 15:26:16 2014 +0000
+
+    update
+
+commit 8673620e26eae26e8e1743a5ba861ac5344894fc
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 15:25:53 2014 +0000
+
+    update
+
+commit 35cfd55c8ddd84523bce1161e8f540e40b9251ad
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 15:24:02 2014 +0000
+
+    update
+
+commit 81d55c4ae76baf9de255fc7806099635d375e1b4
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 15:14:58 2014 +0000
+
+    update
+
+commit 1ab107d7f3020e1343046266e60a75a63ab8ecdf
+Author: ángel <bullgram@gmail.com>
+Date:   Tue Sep 9 15:13:17 2014 +0000
+
+    update
+
+commit b4550ffaad3b617bfa25d4c3c4e0bf005268aa77
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Aug 27 07:36:13 2014 -0430
+
+    Nueva publicación
+
+commit 55679a450efcd510804d0c8893c6af2a402f5fe1
+Merge: be72bea dc0b5ad
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Aug 26 14:02:53 2014 -0430
+
+    Merge branch 'master' of https://github.com/abr4xas/post
+
+commit be72bea01c2419c4edbb960468233707065baa07
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Aug 26 14:02:24 2014 -0430
+
+    Se agrega changelog
+
 commit 7ea80974acfc22afaad3e49de85895b9bf4b87be
 Author: abr4xas <me@abr4xas.org>
 Date:   Tue Aug 26 14:01:45 2014 -0430
@@ -9,6 +160,12 @@ Author: abr4xas <me@abr4xas.org>
 Date:   Tue Aug 26 13:59:56 2014 -0430
 
     Actualizando publicaciones
+
+commit dc0b5adf0b0b4c77cd3212c88812d8e14a8160e6
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Aug 25 14:37:04 2014 -0430
+
+    Actualizado
 
 commit 44eb32a1201063116cfecaa09299941186a13ec0
 Author: abr4xas <me@abr4xas.org>

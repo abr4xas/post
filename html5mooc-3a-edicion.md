@@ -16,6 +16,9 @@ También se ha reordenado el temario y se han mejorado y completado los ejemplos
 
 ## Descripcion del curso
 
-<div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/p1mNhmAPExQ" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
+Para inscribirte en el curso solo debes ingresar en este [enlace](https://www.miriadax.net/web/html5mooc) y obtener mucha mas informacion del curso
