@@ -88,14 +88,5 @@ El SmartWatch costará $349 y podrá ser adquirido desde el próximo año. </h3>
 	  </div>
 	</div>
   </div>
-
-  <!-- Controls -->
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-   <i class="fa fa-chevron-left"></i>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <i class="fa fa-chevron-right"></i>
-
-  </a>
 </div>
 <br />
