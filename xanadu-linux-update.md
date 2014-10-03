@@ -6,7 +6,9 @@ Slug: xanadu-linux-update
 Author: xanadulinux
 twitter: xanadulinux
 Summary: Ha salido una nueva version de est derivado de Debian que utiliza SID como base y LXDE como entorno de escritorio, pensada para...
-image: https://raw.githubusercontent.com/abr4xas/post/master/images/xanadu-linux.png
+image: /images/xanadu-linux.png
+
+![Alt Text](/images/xanadu-linux.png)
 
 Es un derivado de Debian que utiliza SID como base y LXDE como entorno de escritorio, pensada para ser ligera y a la vez útil, contiene herramientas para rescate de sistemas, análisis forense y navegación anónima, además de todo lo necesario para su uso en el escritorio.
 

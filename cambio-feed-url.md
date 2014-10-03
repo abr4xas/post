@@ -8,7 +8,7 @@ twitter: abr4xas
 Summary: Cambiando la dirección del feed...
 image: images/abr4xaslogo.jpg
 
-![abr4xas.org](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/1375758_1378127522423533_1335788860_n.jpg)
+![abr4xas.org](/images/1375758_1378127522423533_1335788860_n.jpg)
 
 El dia de hoy cambie la dirección del feed por feedburner,  la dirección es [esta](http://feeds.feedburner.com/ElBlogDeAbr4xas).
 

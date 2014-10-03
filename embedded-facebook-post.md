@@ -6,7 +6,9 @@ Slug: embedded-facebook-post
 Author: abr4xas
 twitter: abr4xas
 Summary: Mensajes empotrados son una forma sencilla de poner post públicos.  
-image: http://upload.wikimedia.org/wikipedia/commons/3/32/Facebooklogo.png
+image: /images/Facebooklogo.png
+
+![Alt Text](/images/Facebooklogo.png)
 
 Hace poco tiempo, Facebook lanzó una nueva característica que permite incorporar mensajes de los sitios externos, en nuestro sitio web o blog. Embedded Facebook Post se  reproducen exactamente como  aparecen en Facebook, 
 incluyendo fotos, videos, hashtags, igual y Compartir botones y cuadros de comentarios

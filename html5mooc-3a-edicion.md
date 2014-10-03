@@ -6,7 +6,7 @@ Slug: html5mooc-3a-edicion
 Author: abr4xas
 twitter: abr4xas
 Summary: El día 1 de Octubre comienza una nueva edición de este curso "Desarrollo de Aplicaciones Web en HTML5, CSS y Javascript, incuyendo Apps FirefoxOS* (3a edición)" 
-image: https://static2.miriadax.net/c_image_profile/iGroup/19715603.jpg
+image: /images/19715603.jpg
 
 Esta edición corrige errores, introduce mejoras y nuevos temas para facilitar el aprendizaje de la programación en JavaScript a las personas que empiezan a programar. 
 

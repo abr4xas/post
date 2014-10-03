@@ -6,16 +6,14 @@ Slug: european-hosting-openshift
 Author: abr4xas
 twitter: abr4xas
 Summary: Desarrolladores OpenShift online de todo el mundo han creado más de 2 millones de solicitudes. 
-image: /images/openshift_logo.png
+image: /images/OpenShift-LogoType.svg.png
 
-
+![Open Shift](/images/openshift_logo.png)
 
 
 Desarrolladores OpenShift online de todo el mundo han creado más de 2 millones de solicitudes. Hoy, estamos dando otro paso para apoyar a nuestra base de clientes global en crecimiento mediante la adición de una nueva opción de alojamiento en Irlanda.
 
 Ahora se puede ejecutar sus aplicaciones en engranajes de producción con la misma funcionalidad de nuestras localidades en  Estados Unidos o lugares de alojamiento europeas
-
-![Open Shift](/images/openshift_logo.png)
 
 ## Caracteristicas
 
