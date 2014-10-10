@@ -6,9 +6,9 @@ Slug: apple-event
 Author: abr4xas
 twitter: abr4xas
 Summary: Durante el evento de Apple en los que van a presentarse presumiblemente los nuevos iPhone, el esperado wearable, y quizas alguna sorpresa más...
-image: /images/BxGKWphIcAA2p5z.jpg
+image: images/apple-8-bit-logo.png
 
-![Apple Event](/images/BxGKWphIcAA2p5z.jpg)
+![Apple Event](images/BxGKWphIcAA2p5z.jpg)
 
 Hoy es el evento de Apple en los que van a presentarse presumiblemente los nuevos iPhone, el esperado wearable, y quizas alguna sorpresa más...
 
