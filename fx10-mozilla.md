@@ -3,8 +3,8 @@ Date: 2014-11-10 09:45
 Category: Eventos
 Tags: firefox
 Slug: fx10-mozilla
-Author: 
-twitter: tu user sin el @
+Author: abr4xas
+twitter: @abr4xas
 Summary: El aniversario numero 10 de Mozilla Firefox, su primera versión fue lanzada el 09 de Noviembre de 2004 desde entonces es utilizado por cientos millones de personas en el mundo...
 image: images/10-jahre-firefox-538x218.png
 
