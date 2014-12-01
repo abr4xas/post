@@ -28,8 +28,6 @@ simplemente pueden hacer
 clic [aquí](abr4xas.org/descargas/includes.zip "Bajar librerías necesarias") y
 bajar en formato zip esas mismas librerías.
 
-[adsenseyu1]
-
 Bueno, como todos sabemos la libreria `conio.h` no viene instalada en
 los sitemas GNU/Linux y por eso aqui una solución quizas no la mejor
 pero solución al fin xD
@@ -43,9 +41,4 @@ Como dije, no es una solucion efectiva pero vamos, es mejor que una
 que encontré que decía entre otras cosas: "*Hay que bajarse el
 programilla Bloodshed DevC/C++ para Windows e instalarlo con Wine*..."
 Lo pueden
-ver[ aquí](http://www.ubuntu-es.org/node/106572 "Librería CONIO.H (borland C) en linux por fin! (solución para todos los que tengan problemas)")..
-
-<span style="color: #ff0000;"><span style="color: #ff0000;">[adsenseyu2]</span>  
-</span>
-
- 
+ver[ aquí](http://www.ubuntu-es.org/node/106572 "Librería CONIO.H (borland C) en linux por fin! (solución para todos los que tengan problemas)").
