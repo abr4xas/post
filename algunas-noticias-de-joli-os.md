@@ -1,9 +1,13 @@
 Title: Algunas noticias de Joli OS
 Date: 2011-12-26 02:33
-Author:  
+Category: Linux
+Tags: linux, jolios
 Slug: algunas-noticias-de-joli-os
+Author: abr4xas
+twitter: abr4xas
+Summary: Una descripción corta de lo que trata el post... 
+image: http://www.jolicloud.com/images/design/jolicloud-logo.png
 
-![](http://www.jolicloud.com/images/design/jolicloud-logo.png "Joli OS")
 
 Jolicloud
 =========
