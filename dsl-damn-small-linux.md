@@ -1,9 +1,12 @@
 Title: #DSL: Damn Small Linux.
 Date: 2011-09-12 19:13
-Author:  
+Category: Linux
+Tags: dsl, linux
 Slug: dsl-damn-small-linux
-
-[![damnsmall](http://abr4xas.org/wp-content/uploads/2011/09/damnsmall.jpg "damnsmall")](http://abr4xas.org/wp-content/uploads/2011/09/damnsmall.jpg)
+Author: abr4xas
+twitter: abr4xas
+Summary: DSL es una distribución de GNU/Linux que en tan solo 50MB
+image: 
 
 DSL es una distribución de GNU/Linux que en tan solo 50MB es capaz de
 conseguir eficientemente lo siguiente:
