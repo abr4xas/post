@@ -1,6 +1,6 @@
 Title: Un corto review del evento de Apple
 Date: 2014-09-09 11:00
-Category: Evento
+Category: Eventos
 Tags: Evento, AppleLive, Apple
 Slug: apple-event
 Author: abr4xas

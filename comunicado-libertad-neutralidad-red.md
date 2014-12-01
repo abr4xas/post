@@ -1,6 +1,6 @@
 Title: Comunicado...
 Date: 2014-02-26 10:20
-Category: Libertad
+Category: Blog
 Tags: Blog
 Slug: comunicado-libertad-neutralidad-red
 Author: abr4xas
