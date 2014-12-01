@@ -1,7 +1,15 @@
 Title: Compras de fin de semana...
 Date: 2011-11-13 02:18
-Author:  
+Category: Blog
+Tags: blog
 Slug: compras-de-fin-de-semana
+Author: abr4xas 
+twitter: abr4xas
+Summary: Hoy compre un par de artículos que estaba por tenerlos desde hace meses pero nunca tenia el tiempo disponible o el dinero pero hoy si se pudo, los artículos que compre fueron ...
+image: 
+
+
+
 
 Hoy compre un par de artículos que estaba por tenerlos desde hace meses
 pero nunca tenia el tiempo disponible o el dinero pero hoy si se pudo,
