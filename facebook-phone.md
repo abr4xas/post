@@ -1,10 +1,12 @@
 Title: #Facebook... Phone(?)
 Date: 2011-12-10 18:18
-Author:  
+Category: Gadget
+Tags: facebook
 Slug: facebook-phone
-
-![Facebook
-phone](http://android-france.fr/wp-content/uploads/2011/11/facebook-phone-580x326.jpg "Facebook phone")
+Author: abr4xas
+twitter: abr4xas
+Summary: Hablemos de fb phone...
+image: http://android-france.fr/wp-content/uploads/2011/11/facebook-phone-580x326.jpg
 
 Revisando Google Reader me encuentro con esta noticia
 en [http://android-espana.es](http://android-espana.es/el-facebook-phone-pronto-disponible-rumor "El Facebook phone pronto disponible [rumor]") donde
