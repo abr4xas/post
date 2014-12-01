@@ -3,7 +3,16 @@ Date: 2011-12-24 00:30
 Author:  
 Slug: contenidos-calidad-twitter
 
-![](http://www.trecebits.com/wp-content/uploads/2010/04/twitter_london.jpg "twitter-london")
+
+Title: Creando buen contenido para twitter
+Date: 2011-12-24 00:30
+Category: Web
+Tags: twitter
+Slug: contenidos-calidad-twitter
+Author: abr4xas
+twitter: abr4xas
+Summary: Creando contenido de calidad para nuestra cuenta twitter... 
+image: http://www.trecebits.com/wp-content/uploads/2010/04/twitter_london.jpg
 
 En estos días, es común ver (leer) a personas decir que son [Community
 Manager](http://es.wikipedia.org/wiki/Responsable_de_comunidad "Clic aquí para saber que es un community manager") y
@@ -11,13 +20,18 @@ la verdad a lo único que llegan es a nivel de SPAM, cierto, hay muchas
 personas que si lo son, y son excelentes en lo que hacen porque
 efectivamente saben lo que hacen...
 
+
+
+![](http://www.trecebits.com/wp-content/uploads/2010/04/twitter_london.jpg "twitter-london")
+
+
+
 En este post (tomado de la gente de
 [MaestrosdelWeb.com](http://www.maestrosdelweb.com/editorial/guia-community-manager-crear-contenido-para-twitter/ "http://www.maestrosdelweb.com/editorial/guia-community-manager-crear-contenido-para-twitter/")),
 voy a mencionar ciertas cosas que cualquier persona que se quiera
 iniciar en este mundo lo tenga presente y no cometa esos errores que
 la mayoría de las personas están cometiendo...
 
-<!--more-->
 
 Lo que se debe hacer:
 
