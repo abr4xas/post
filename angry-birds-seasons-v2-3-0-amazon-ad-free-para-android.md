@@ -1,10 +1,12 @@
 Title: Angry Birds Seasons v2.3.0 Amazon ad-free para #Android
 Date: 2012-03-09 16:51
-Author:  
+Category: Games
+Tags: games, android
 Slug: angry-birds-seasons-v2-3-0-amazon-ad-free-para-android
-
-![Angry
-Birds](http://abr4xas.org/wp-content/uploads/2012/03/011-300x124.jpg "Angry Birds")
+Author: abr4xas
+twitter: abr4xas
+Summary:  Angry Birds Seasons v2.3.0 Amazon ad-free para #Android
+image: 
 
 ***Angry Birds Seasons: Año del Dragón***
 
@@ -18,18 +20,12 @@ pero los cerditos están tratando de asustar a los de sus huevos! Por
 suerte, los **Angry Birds** tienen un poco de ayuda - el Poderoso Águila
 se ha transformado en el Poderoso Dragón terrible!
 
-<!--more--><span style="color: #ff0000;">[adsenseyu1]</span>
-
-[![](http://abr4xas.org/wp-content/uploads/2012/03/021-300x200.jpg "02")](http://abr4xas.org/wp-content/uploads/2012/03/021.jpg)
-
-[![](http://abr4xas.org/wp-content/uploads/2012/03/03-300x200.jpg "03")](http://abr4xas.org/wp-content/uploads/2012/03/03.jpg)
-
 Como el Año Nuevo está presente para todos, el Poderoso Dragón está
 disponible de forma gratuita! Por este único episodio, todo el
 mundo puede utilizar el Poderoso Dragón para destruir los niveles
 y conseguir logros especiales.
 
-<span style="color: #ff0000;">[adsenseyu2]</span>
+
 
 Descarga este buenísimo juego en los siguientes links:
 
@@ -53,5 +49,3 @@ Descarga este buenísimo juego en los siguientes links:
 *Requerimientos: OS Android 1.6 en adelante*
 
 *Tamaño: 23 Mb*
-
-<span style="color: #ff0000;">[adsenseyu3]</span>
