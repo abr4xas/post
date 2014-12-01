@@ -1,7 +1,16 @@
 Title: apt-get vs aptitude
 Date: 2012-05-23 17:25
-Author:  
+Category: Linux
+Tags: linux, comandos, terminal
 Slug: apt-aptitude
+Author: abr4xas
+twitter: abr4xas
+Summary: Diferencias entre apt-get y aptitude...
+image: 
+
+
+
+
 
 APT se utiliza básicamente para la instalación y desinstalación de
 paquetes en sistemas GNU/Linux basados en Debian desde los repositorios
@@ -10,9 +19,6 @@ paquetes en sistemas GNU/Linux basados en Debian desde los repositorios
 Los cuatro comandos más usados son: install, remove, update y upgrade.
 Aquí tienes una explicación detallada de todos los comandos de apt-get:
 
- 
-
-<!--more-->
 
 -   **apt-get update** - Descarga nuevas listas de paquetes
 -   **apt-get upgrade** - Realiza una actualización
@@ -27,7 +33,7 @@ Aquí tienes una explicación detallada de todos los comandos de apt-get:
 -   **apt-get autoclean** - Elimina los archivos descargados antiguos
 -   **apt-get check** - Verifica que no haya dependencias incumplidas
 
-pt-get trabaja muy bien identificando qué dependencias necesitan ser
+Apt-get trabaja muy bien identificando qué dependencias necesitan ser
 instaladas para que funcione un paquete determinado, pero falla
 miserablemente a la hora de eliminar dicho paquete.
 
@@ -61,23 +67,16 @@ funciones. Veamos:
 -   **aptitude hold**: Fuerza a que un paquete permanezca en su versión
     actual, y no se actualice.
 
-<div>
+
 Pero aptitude tiene otras ventajas respecto a su predecesor, apt:Al
 buscar un paquete con aptitude, los resultados aparecen ordenados
 alfabéticamente y justificados por columnas; también te dirá cuales
 están instalados en tu sistema, en lugar de darte un listado de paquetes
 en un formato desordenado e ilegible, como hace apt-cache.
 
-</p>
+
 Y eso no es todo: los paquetes que apt-get te recomendaba y
 sugería, aptitude los instala directamente, siempre avisándote,
 obviamente.
 
-</div>
-<div>
-</div>
-<div>
 [fuente](http://usandocanaima.blogspot.com/2011/06/gestionando-paquetes-apt-get-o-aptitude.html "Gestionando paquetes ¿apt-get o aptitude?")
-
-</div>
-
