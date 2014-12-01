@@ -6,7 +6,7 @@ Slug: juegos-de-android
 Author: abr4xas
 twitter: abr4xas
 Summary: Varios juegos interesantes que quizas les puede gustar :)
-image: http://url/de/imagen/destacada
+image: http://1.bp.blogspot.com/-NIeq-7-EACQ/UiG9ZnErqiI/AAAAAAAABYs/s1DiHGfXPlg/s200/android_1024.png
 
 
 
