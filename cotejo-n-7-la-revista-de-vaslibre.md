@@ -10,8 +10,9 @@ Cotejo de VaSlibre, la revista digital referente al Software Libre
 <div>
 **Contenido:**
 
-[![Cotejo
-7](http://www.xombra.com/download/cotejo/cotejo_portada_7_presentacion.jpg "Cotejo 7")](http://www.vaslibre.org.ve/cotejo/cotejo_7.pdf)
+
+![Cotejo 7](http://www.xombra.com/download/cotejo/cotejo_portada_7_presentacion.jpg)
+
 
 -   Entrevista a:  
     Jorge Castellano  
@@ -44,5 +45,4 @@ Cotejo de VaSlibre, la revista digital referente al Software Libre
 
 [http://www.xombra.com/](http://www.xombra.com/download/cotejo/cotejo_7.pdf "Descarga de .PDF Cotejo 7")
 
-</div>
 
