@@ -3,13 +3,22 @@ Date: 2012-05-26 20:59
 Author:  
 Slug: dia-del-usuario-ubuntu
 
+Title: Día del Usuario #Ubuntu
+Date: 2012-05-26 20:59
+Category: Linux
+Tags: linux, ubuntu
+Slug: dia-del-usuario-ubuntu
+Author: abr4xas
+twitter: abr4xas
+Summary: El equipo de Classroom en Español prepara una nueva edición del Día del Usuario Ubuntu. 
+image: 
+
 El equipo de Classroom en Español prepara una nueva edición del Día del
 Usuario Ubuntu.
 
 La fecha escogida para este evento es el día sábado 23 de Junio desde
 las 15:30 UTC (consultar horario).
 
-<!--more-->
 
 Como en todas estas actividades Classroom-es hace llamado a miembros de
 la comunidad que deseen aportar en el proceso de e-learning con el fin
