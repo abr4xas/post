@@ -1,7 +1,12 @@
 Title: Y nos vamos a la cayapa @CanaimaGNULinux
 Date: 2012-05-12 17:26
-Author:  
+Category: Linux
+Tags: canaima, linux
 Slug: cayapa-canaima
+Author: abr4xas
+twitter: abr4xas
+Summary: En este encuentro se lanzará la propuesta de licencia venezolana de Software Libre para tutelar el conocimiento asociado con la producción de sistemas informáticos libres....
+image: 
 
 En este encuentro se lanzará la propuesta de licencia venezolana de
 Software Libre para tutelar el conocimiento asociado con la producción
