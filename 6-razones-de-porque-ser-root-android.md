@@ -1,13 +1,15 @@
 Title: 6 razones de porque ser root #android
 Date: 2012-01-15 09:26
-Author:  
+Category: android
+Tags: android, root
 Slug: 6-razones-de-porque-ser-root-android
+Author: abr4xas
+twitter: abr4xas
+Summary: Una de las discusiones más comunes y que tiene tanto gente a favor como en contra es el tema de rootear los terminales, es decir, tener control absoluto de todo lo que ocurre en el gracias a ser superusuario...
+image: http://www.elandroidelibre.com/wp-content/uploads/2011/12/android_Free.png
 
-![Imagen](http://www.elandroidelibre.com/wp-content/uploads/2011/12/android_Free.png)
+Una de las discusiones más comunes y que tiene tanto gente a favor como en contra es el tema de rootear los terminales, es decir, tener control absoluto de todo lo que ocurre en el gracias a ser superusuario.
 
-Una de las discusiones más comunes y que tiene tanto gente a favor como
-en contra es el tema de rootear los terminales, es decir, tener control
-absoluto de todo lo que ocurre en el gracias a ser superusuario.
 
 Como siempre hay gente a favor y en contra, y los motivos son de lo más
 diverso y variopinto. Lejos de ponerse a favor o en contra, lo que yo
@@ -15,7 +17,12 @@ voy a exponer aquí son mis razones por las que yo pienso que vale la
 pena hacer root (rootear) nuestro terminal. Desde la experiencia y
 vivencia de usuario. Así que espero que os sirvan de ayuda y
 aclaración.  
-<!--more-->  
+
+
+![Imagen](http://www.elandroidelibre.com/wp-content/uploads/2011/12/android_Free.png)
+
+
+
 **Las limitaciones del fabricante desaparecen**
 
 Es bastante habitual que nuestros terminales vengan en muchas ocasiones
