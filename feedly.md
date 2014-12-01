@@ -1,10 +1,15 @@
 Title: #feedly: Un lector de feeds un tanto diferente
 Date: 2011-09-13 08:45
-Author:  
+Category: Web
+Tags: feedly
 Slug: feedly
+Author: abr4xas
+twitter: abr4xas
+Summary: Feedly... Una simple y elegante forma de leer y compartir el contenido de nuestros sitios favoritos.. Desde cualquier lugar, desde cualquier momento...
+image: 
 
 [feedly](http://www.feedly.com/index.html)feed your mind
---------------------------------------------------------
+
 
 A news reader for creative minds
 ================================
