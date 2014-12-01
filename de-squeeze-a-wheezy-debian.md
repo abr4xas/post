@@ -1,9 +1,3 @@
-Title: #Debian, pasando de squeeze a wheezy
-Date: 2011-08-26 03:37
-Author:  
-Slug: de-squeeze-a-wheezy-debian
-
-
 Title: Debian, pasando de squeeze a wheezy
 Date: 2011-08-26 03:37
 Category: Linux
