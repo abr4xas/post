@@ -1,13 +1,22 @@
 Title: Cotejo n° 7 la revista de @vaslibre...
 Date: 2011-12-31 02:09
-Author:  
+Category: Blog
+Tags: 
 Slug: cotejo-n-7-la-revista-de-vaslibre
+Author: abr4xas
+twitter: abr4xas
+Summary: Disponible para su lectura y descarga el número 7 de nuestra eZine Cotejo de VaSlibre, la revista digital referente al Software Libre (GNU/Linux).
+image:
+
+
+
+
+
 
 Disponible para su lectura y descarga el número 7 de nuestra eZine
 Cotejo de VaSlibre, la revista digital referente al Software Libre
 (GNU/Linux).
 
-<div>
 **Contenido:**
 
 
