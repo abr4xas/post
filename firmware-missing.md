@@ -1,10 +1,16 @@
 Title: UPDATE: Posible perdida de firmware para el módulo r8169.
 Date: 2011-08-24 19:18
-Author:  
+Category: Linux
+Tags: linux, firmware
 Slug: firmware-missing
+Author: abr4xas
+twitter: abr4xas
+Summary: Bueno, desde hace unos dias estoy usando la version testing de debian (fue un
+proceso largo para hacer el cambio que despues les dire) entre una de
+las cosas que me dieron "cierto" problema fue un error con el kernel.
+image: 
 
-[![Alerta](http://abr4xas.org/wp-content/uploads/2011/08/400px-Alerta_Roja_svg-150x150.png "Alerta")](http://abr4xas.org/wp-content/uploads/2011/08/400px-Alerta_Roja_svg.png)Bueno,
-desde hace unos dias estoy usando la version testing de debian (fue un
+Bueno, desde hace unos dias estoy usando la version testing de debian (fue un
 proceso largo para hacer el cambio que despues les dire) entre una de
 las cosas que me dieron "cierto" problema fue un error con el kernel.
 Para el momento estaba usando la 2.6.39 y pues, al momento de hacer la
