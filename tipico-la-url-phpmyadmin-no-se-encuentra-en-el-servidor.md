@@ -1,10 +1,5 @@
 Title: Tipico, la url /phpmyadmin/ no se encuentra en el servidor
 Date: 2011-10-13 03:46
-Author:  
-Slug: tipico-la-url-phpmyadmin-no-se-encuentra-en-el-servidor
-
-Title: Tipico, la url /phpmyadmin/ no se encuentra en el servidor
-Date: 2011-10-13 03:46
 Category: Linux
 Tags: php, apache
 Slug: tipico-la-url-phpmyadmin-no-se-encuentra-en-el-servidor
