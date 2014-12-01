@@ -1,7 +1,12 @@
 Title: Configuración de Squid+DNSmasq
 Date: 2012-01-30 07:29
-Author:  
+Category: Linux
+Tags: squid, dnsmasq
 Slug: squid-dnsmasq
+Author: abr4xas
+twitter: abr4xas
+Summary: Instalando y configurando squid+dnsmasq 
+image: 
 
 [@sinfallas](http://twitter.com/sinfallas "Sigue a sinfallas en twitter!!") paso
 un rato configurando un Squid y DNSmasq y como a él no le gusta
@@ -20,11 +25,15 @@ PROBLEM?
 Para poder usar el Squid obviamente lo instalamos, en cualquier distro
 basada en Debian:
 
-***sudo apt-get install squid***
+```bash
+sudo apt-get install squid
+```
 
 Ahora el DNSMasq:
 
-***sudo apt-get install dnsmasq***
+```bash
+sudo apt-get install dnsmasq
+```
 
 Ok bueno,
 
@@ -38,6 +47,7 @@ Ok, *eth0* tendra la IP (*en nuestro caso*) ***192.168.0.10/24*** el
 router (***TP-Link***) tendrá la IP ***192.168.0.11/24*** a partir de
 aquí los rangos de IP serán:
 
+```
 **192.168.1.100 ---\> 149**
 
 192.168.1.150 ---\> gateway
@@ -47,10 +57,10 @@ aquí los rangos de IP serán:
 8.8.8.8 ---\> DNS 2
 
 8.8.4.4 ---\> DNS 3
-
-*\*\*\* Que podemos usar OpenDNS (208.67.222.222) o los de COMODO
+```
+** Que podemos usar OpenDNS (208.67.222.222) o los de COMODO
 (8.26.56.26), para una "mayor seguridad".* Los rangos de IP pueden
-cambiar según nuestras necesidades. \*\*\*
+cambiar según nuestras necesidades.
 
 **PROXY (*Squid*)**
 
@@ -67,22 +77,26 @@ Ver la configuración del squid.conf en este
 [enlace](http://vaslibre.org.ve/publicaciones/squid.conf "Enlace de descarga para el squid.conf")
 o editalo usando:
 
-***sudo gedit /etc/squid/squid.conf***
+```bash
+sudo gedit /etc/squid/squid.conf
+```
 
 Ahora, las reglas para la IPTables:
 
 Esto en la consola, claro!! ;)
+```bash
+iptables -t nat -A POSTROUTING -s 192.168.0.0/24 -o wlan0 -j
+MASQUERADE
 
-***iptables -t nat -A POSTROUTING -s 192.168.0.0/24 -o wlan0 -j
-MASQUERADE***
-
-echo 1 \> /proc/sys/net/ipv4/ip\_forward
+echo 1 > /proc/sys/net/ipv4/ip\_forward
 
 iptable-save
-
+```
 Despúes, levantamos el squid:
 
-***/etc/init.d/squid start***
+```bash
+/etc/init.d/squid start
+```
 
 A medida de que vayas navegando se notará el cambio de velocidad en las
 páginas que más visitas, debido a que estaran "cacheadas" en dos
@@ -119,13 +133,6 @@ Es decir, la IP del router tendrá la misma mascara de red de eth0.
 
 **Cualquier otra duda, google con eso *xD***
 
-Gracias a
-@[Sinfallas](http://twitter.com/sinfallas "Sigue a Sinfallas en twitter")
-por ayudarnos a configurar todo esto y a
-@[xombra](http://twitter.com/xombra "Sigue a xombra en twitter") por
-ponerlo puyuo!! Y obvio, me tienes que seguir a mi!! ¬¬"
-@[abr4xas](http://twitter.com/abr4xas "Sigue a abr4xas en twitter")
-
 Ahora bien, si sacan cuentas tendremos:
 
 *1 modem CANTV*
@@ -138,3 +145,11 @@ Ahora bien, si sacan cuentas tendremos:
 
 4 mascaras que haran entretenida la noche a cualquiera que quiera entrar
 sin permiso a su red!!
+
+
+Gracias a
+@[Sinfallas](http://twitter.com/sinfallas "Sigue a Sinfallas en twitter")
+por ayudarnos a configurar todo esto y a
+@[xombra](http://twitter.com/xombra "Sigue a xombra en twitter") por
+ponerlo puyuo!! Y obvio, me tienes que seguir a mi!! ¬¬"
+@[abr4xas](http://twitter.com/abr4xas "Sigue a abr4xas en twitter")
