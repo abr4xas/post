@@ -1,9 +1,12 @@
 Title: Bienvenidos al @flisolve 2012
 Date: 2012-02-02 05:39
-Author:  
+Category: Eventos
+Tags: flisol
 Slug: bienvenidos-al-flisolve-2012
-
-![flisol-top-bar](http://vaslibre.org.ve/imgeventos/banner_flisol_272012.png "flisol-top-bar")
+Author: abr4xas
+twitter: abr4xas
+Summary: El Festival Latinoamericano de Instalación de Software Libre.  es el evento de difusión de Software Libre más grande en Latinoamérica. Se realiza desde el año 2005 y desde el 2008 se adoptó su realización el 4to Sábado de abril de cada año.
+image:
 
 ¿Qué es el ***FLISoL***?
 ------------------------
@@ -18,7 +21,6 @@ libre](http://es.wikipedia.org/wiki/Software_libre "¿Que es el Software Libre?"
 dando a conocer al público en general su filosofía, alcances, avances y
 desarrollo.
 
-<span style="color: #ff0000;">[adsenseyu1]</span>
 
 A tal fin, las diversas comunidades locales de software libre (*en cada
 país/ciudad/localidad*), organizan simultáneamente eventos en los que se
@@ -35,19 +37,16 @@ Viernes<span style="color: #ff6600;">**27 de abril del 2012**</span>,
 debido que el día oficial (sábado 28 la Institución tiene reservado el
 auditorio para otra actividad).
 
-<!--more-->
+
 
 ¿Qué Necesitamos?
 =================
 
-<div>
-  ------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
   **Instaladores**    Personas con conocimientos sólidos sobre alguna distribución para ayudar a los asistentes -**Grupos de usuarios** organizados interesados en darse a conocer mediante instalaciones y demostraciones.
   **Patrocinantes**   Instituciones, Empresarios y Personas capaces de colaborar con la distribución de material de difusión, logrando así el cometido de dar a conocer el Software Libre en el **FLISOL**.
   **Colaboradores**   Chicos y chicas responsables con ganas de compartir un rato agradable ayudando con la organización de la logística, ubicación de los participantes y asistentes, y en todos esos detalles que complementan y consolidan un evento de alta calidad.
-  ------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-</div>
  
 
 ¿Cómo Ayudar?
@@ -61,7 +60,6 @@ Puedes ayudar de diferentes formas:
 -   Si deseas ayudar con la publicidad del evento contáctanos vía mail.
     Toda ayuda es bienvenida.
 
-<span style="color: #ff0000;">[adsenseyu2]</span>
 
 Consideraciones generales para la instalación
 =============================================
