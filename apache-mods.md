@@ -3,18 +3,25 @@ Date: 2012-03-13 02:35
 Author:  
 Slug: apache-mods
 
-![apache-logo](http://abr4xas.org/wp-content/uploads/2012/03/apache-logo.png "apache-logo")Todos
-sabemos que es y de que trata el servidor apache y el que no lo sepa
-pues, pueden dar
-[clic aquí](http://es.wikipedia.org/wiki/Servidor_HTTP_Apache "Servidor HTTP Apache") en
-este enlace para conocer un poco sobre el.
+
+Title: #Apache, sus mods y algo más
+Date: 2012-03-13 02:35
+Category: Linux
+Tags: apache, web server
+Slug: apache-mods
+Author: abr4xas
+twitter: abr4xas
+Summary: El servidor apache tiene muchas funcionalidades y "*mods*" que se emplean en el servidor para sacarle un mayor provecho al mismo.
+image: 
+
+Todos sabemos que es y de que trata el servidor apache y el que no lo sepa pues, pueden dar [clic aquí](http://es.wikipedia.org/wiki/Servidor_HTTP_Apache "Servidor HTTP Apache") en este enlace para conocer un poco sobre el.
 
 El servidor apache tiene muchas funcionalidades y "*mods*" que se
 emplean en el servidor para sacarle un mayor provecho al mismo.
 
-<span style="color: #ff0000;">[adsenseyu2]</span>
 
-Entre ellos les comento sobre:<!--more-->
+
+Entre ellos les comento sobre:
 
 -   [mod\_ssl](http://httpd.apache.org/docs/2.2/mod/mod_ssl.html)  -
     Comunicaciones Seguras
@@ -43,8 +50,6 @@ Entre ellos les comento sobre:<!--more-->
 
 El servidor de base puede ser extendido con la inclusión de módulos
 externos entre los cuales se encuentran:
-
-<span style="color: #ff0000;">[adsenseyu1]</span>
 
 -   [mod\_cband](http://www.howtoforge.com/mod_cband_apache2_bandwidth_quota_throttling) -
     Control de tráfico y limitador de ancho de banda.
@@ -79,7 +84,10 @@ Luego de instalar apache para poder usarlo todo nuestros scripts deben
 ir en /var/www para que al entrar a 127.0.0.1/pruyecto
 localhost/proyecto se ejecute todo lo que estemos haciendo cierto? Pero,
 eso de estar en consola a cada rato haciendo un  
-`cp /home/tu_usuario/proyecto /var/www/`  
+
+```
+cp /home/tu_usuario/proyecto /var/www/
+```
 es algo tedioso si eres una de esas personas que no les gusta usar
 consola o para los efectos trabajar con nautilus en modo root para poder
 acceder a esa carpeta ya que root tiene permisos sobre ella...
@@ -88,33 +96,40 @@ Si, es valido aplicar la de hacerse propietario de esa carpeta y eso...
 Pero vamos, hay quienes no les gusta mucho hacer eso y para esas
 personas va este post... :D
 
-<span style="color: #ff0000;">[adsenseyu3]</span>
-
 Bueno, existe una opción para cambiar el DocumentRoot de apache y que
 sea cualquier carpeta en nuestro sistema... ¿Como se hace? Pues,
 sencillo... En consola debemos escribir (o copiar según el caso xD)  
-`sudo gedit /etc/apache2/sites-available/default`  
+
+```
+sudo gedit /etc/apache2/sites-available/default
+```
+
 Colocamos nuestra clave y vamos a ver un archivo con la siguiente
 información:  
-`<VirtualHost *:80> ServerAdmin webmaster@localhost`  
-
-`DocumentRoot /home/abr4xas/Documentos/www <Directory /> Options FollowSymLinks AllowOverride None </Directory> <Directory /home/abr4xas/Documentos/www> Options Indexes FollowSymLinks MultiViews AllowOverride None Order allow,deny allow from all </Directory>`  
-
-`ScriptAlias /cgi-bin/ /usr/lib/cgi-bin/ usr/lib/cgi-bin"> AllowOverride None Options +ExecCGI -MultiViews +SymLinksIfOwnerMatch Order allow,deny Allow from all </Directory>`  
-`ErrorLog ${APACHE_LOG_DIR}/error.log`  
-
-`# Possible values include: debug, info, notice, warn, error, crit, # alert, emerg. LogLevel warn`
-
-`CustomLog ${APACHE_LOG_DIR}/access.log combined`  
-
-`Alias /doc/ "/usr/share/doc/" usr/share/doc/"> Options Indexes MultiViews FollowSymLinks AllowOverride None Order deny,allow Deny from all Allow from 127.0.0.0/255.0.0.0 ::1/128 </Directory>`  
-`</VirtualHost>`  
+```
+<VirtualHost *:80> ServerAdmin webmaster@localhost
+DocumentRoot /home/abr4xas/Documentos/www 
+<Directory /> Options FollowSymLinks AllowOverride None </Directory> 
+<Directory /home/abr4xas/Documentos/www> Options Indexes FollowSymLinks MultiViews AllowOverride None Order allow,deny allow from all </Directory>
+ScriptAlias /cgi-bin/ /usr/lib/cgi-bin/ usr/lib/cgi-bin"> AllowOverride None Options +ExecCGI -MultiViews +SymLinksIfOwnerMatch Order allow,deny Allow from all </Directory>  
+ErrorLog ${APACHE_LOG_DIR}/error.log
+# Possible values include: debug, info, notice, warn, error, crit, # alert, emerg. LogLevel warn
+CustomLog ${APACHE_LOG_DIR}/access.log combinedAlias /doc/ "/usr/share/doc/" usr/share/doc/"> Options Indexes MultiViews FollowSymLinks AllowOverride None Order deny,allow Deny from all Allow from 127.0.0.0/255.0.0.0 ::1/128 </Directory>
+</VirtualHost>
+```
 Lo que esta resaltado debemos cambiarlo por la ruta de nuestra carpeta
-que va a trabajar como DocumentRoot en mi caso es:  
-`/home/abr4xas/Documentos/www`  
+que va a trabajar como DocumentRoot en mi caso es: 
+
+```
+/home/abr4xas/Documentos/www
+```
+
 Al cambiar esa ruta por la carpeta que quieren usar solo resta iniciar
 nuevamente el apache  
-`sudo /etc/init.d/apache2 stop`  
-`sudo /etc/init.d/apache2 start`  
+
+```
+sudo /etc/init.d/apache2 stop 
+sudo /etc/init.d/apache2 start
+```
 Y listo, ya tenemos una carpeta de "*facil*" acceso para todo lo que
 vamos hacer!! :D
