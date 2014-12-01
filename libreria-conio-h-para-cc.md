@@ -1,10 +1,15 @@
 Title: Librería CONIO.H para C/C++
 Date: 2012-02-16 23:47
-Author:  
+Category: Linux
+Tags: 
 Slug: libreria-conio-h-para-cc
+Author: abr4xas
+twitter: abr4xas
+Summary: Koders is a search engine for open source code. It enables software
+developers to easily search and browse source code in thousands of
+projects posted at hundreds of open source repositories.
+image: 
 
-[![Koders
-Logo](http://abr4xas.org/wp-content/uploads/2012/02/bds_koders_logo.jpg "bds_koders_logo")](http://abr4xas.org/wp-content/uploads/2012/02/bds_koders_logo.jpg)
 
 Koders is a search engine for open source code. It enables software
 developers to easily search and browse source code in thousands of
@@ -12,9 +17,6 @@ projects posted at hundreds of open source repositories. [1]
 
 [1] [http://en.wikipedia.org/wiki/Koders](http://en.wikipedia.org/wiki/Koders)
 
-<span style="color: #ff0000;">[adsenseyu3]</span>
-
-<!--more-->
 
 En [koders.com](http://www.koders.com/ "http://www.koders.com/")  esta
 (entre otras librerías) la famosa `conio.h` donde la podemos bajar y
