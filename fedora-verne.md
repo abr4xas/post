@@ -1,7 +1,13 @@
 Title: Y se llamara #Verne
 Date: 2011-09-18 04:03
-Author:  
+Category: Linux
+Tags: fedora
 Slug: fedora-verne
+Author: abr4xas
+twitter: abr4xas
+Summary: Y si, no es noticia a estas alturas que fedora 16 se llamara verne
+pero... Sabes a quien se le debe el nombre de este lanzamiento?
+image: 
 
 Y si, no es noticia a estas alturas que fedora 16 se llamara verne
 pero... Sabes a quien se le debe el nombre de este lanzamiento?
