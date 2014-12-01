@@ -1,12 +1,14 @@
 Title: Como crear una APP para #google chrome web store.
 Date: 2011-11-07 23:56
-Author:  
+Category: Dev
+Tags: google, app
 Slug: app-google-crear
+Author: abr4xas
+twitter: abr4xas
+Summary: Bueno, este post es muy interesante ya que nos enseña una forma rápida y muuuuy sencilla de crear una pequeña app para la web store de google chrome, que funciona para nuestro blog o pagina web.
+image: 
 
-[![](http://abr4xas.org/wp-content/uploads/2011/11/chrome_web_store1.jpeg "chrome_web_store1")](http://abr4xas.org/wp-content/uploads/2011/11/chrome_web_store1.jpeg)Bueno,
-este post es muy interesante ya que nos enseña una forma rápida y muuuuy
-sencilla de crear una pequeña app para la web store de google chrome,
-que funciona para nuestro blog o pagina web.
+Bueno, este post es muy interesante ya que nos enseña una forma rápida y muuuuy sencilla de crear una pequeña app para la web store de google chrome, que funciona para nuestro blog o pagina web.
 
 Este post es original de **Hamedullah Khan** para
 [http://technorious.com](http://technorious.com/how-to-create-a-google-chrome-web-store-app-for-your-blog.html "How to Create a Google Chrome Web Store App for Your Blog").
@@ -14,9 +16,7 @@ Este post es original de **Hamedullah Khan** para
 La idea de esto es que las personas que visitan nuestro blog/pagina y
 usen google chrome tengan una forma más rápida de entrar a nuestro blog.
 
- 
-
-Bueno, aquí vamos:<!--more-->
+Bueno, aquí vamos:
 
 Principalmente debemos tener en cuenta:
 
@@ -36,7 +36,20 @@ nuestra app ya que la misma quedara guardada como un borrador en nuestro
     carpeta debemos tener 2 archivos el primero de ellos es un archivo
     de texto llamado: "***manifest.json***" en el cual debemos incluir:
 
-` { "name": "El blog de abr4xas", "description": "Un blog de tecnologia, linux y cualquier otra cosa interesante", "version": "0.1", "icons": { "128": "icon_128.png" }, "app": { "urls": [ "http://abr4xas.org/" ], "launch": { "web_url": "http://abr4xas.org/" } } }`  
+```
+{ 
+    "name": "El blog de abr4xas", 
+    "description": "Un blog de tecnologia, linux y cualquier otra cosa interesante", 
+    "version": "0.1", 
+    "icons": { "128": "icon_128.png" }, 
+    "app": { 
+        "urls": [ "http://abr4xas.org/" ], 
+        "launch": { 
+        "web_url": "http://abr4xas.org/" 
+        } 
+    } 
+}
+```
 ¿vieron los \_ÚNICOS\_ campos que hay que cambiar verdad? Si, son:
 "name, description, urls, web\_url"
 
@@ -53,5 +66,3 @@ nuestra app ya que la misma quedara guardada como un borrador en nuestro
  
 
 Aqui, como se vería nuestra app en la chrome web store:
-
-[gallery order="DESC"]
