@@ -1,10 +1,5 @@
 Title: Evitando el spam con #reCAPTCHA
 Date: 2012-02-29 06:13
-Author:  
-Slug: evitar-spam-recaptcha
-
-Title: Evitando el spam con #reCAPTCHA
-Date: 2012-02-29 06:13
 Category: Web
 Tags: recaptcha
 Slug: evitar-spam-recaptcha
