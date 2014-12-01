@@ -1,7 +1,14 @@
 Title: Dart, leguaje de programacion creado por #google
 Date: 2011-10-11 17:18
-Author:  
+Category: Dev
+Tags: dart, google
 Slug: dart-leguaje-de-programacion-creado-por-google
+Author: abr4xas
+twitter: abr4xas
+Summary: Dart, leguaje de programacion creado por #google
+image: http://url/de/imagen/destacada
+
+
 
 De prototipos rápidos para aplicaciones serias
 ==============================================
