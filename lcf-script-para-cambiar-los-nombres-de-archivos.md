@@ -1,11 +1,5 @@
 Title: #lcf: script para cambiar los nombres de archivos.
 Date: 2011-09-26 16:41
-Author:  
-Slug: lcf-script-para-cambiar-los-nombres-de-archivos
-
-
-Title: #lcf: script para cambiar los nombres de archivos.
-Date: 2011-09-26 16:41
 Category: Linux
 Tags: linux, bash
 Slug: lcf-script-para-cambiar-los-nombres-de-archivos
@@ -15,8 +9,6 @@ Summary: Bueno, hace unos dias un amigo me pregunto si habia una forma de cambia
 los nombres de archivos a minusculas ya que se mudaron a un servidor
 Gnu/Linux y tenian ese inconveniente...
 image: 
-
-
 
 Bueno, hace unos dias un amigo me pregunto si habia una forma de cambiar
 los nombres de archivos a minusculas ya que se mudaron a un servidor
