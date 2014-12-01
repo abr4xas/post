@@ -3,12 +3,23 @@ Date: 2011-08-26 03:37
 Author:  
 Slug: de-squeeze-a-wheezy-debian
 
-Bueno, antes de entrar en "*materia*" debemos conocer ciertas cosas
-sobre esta distro:
 
-![Debian
-Powered](http://abr4xas.org/wp-content/uploads/2011/08/debian_powered1.png "Debian Powered")Debian
-siempre mantiene al menos tres versiones en mantenimiento activo:
+Title: Debian, pasando de squeeze a wheezy
+Date: 2011-08-26 03:37
+Category: Linux
+Tags: linux, debian
+Slug: de-squeeze-a-wheezy-debian
+Author: abr4xas
+twitter: abr4xas
+Summary: Pasar a debian wheezy y no morir en el intento... xD
+image: 
+
+
+
+
+Bueno, antes de entrar en "*materia*" debemos conocer ciertas cosas sobre esta distro:
+Debian siempre mantiene al menos tres versiones en mantenimiento activo: 
+
 "estable", "en pruebas" e "inestable" (stable, testing y unstable). Sus
 principales características son:
 
@@ -37,27 +48,37 @@ Para saber más
 Ok, a lo que vinimos... Si lo que queremos cambiar de squeeze a wheezy
 (estable a testing) en debian lo primero que debemos hacer en una
 terminal como root:  
-`gedit /etc/apt/sources.list`
+
+```
+gedit /etc/apt/sources.list
+```
 
 para cambiar lo que tenemos ahi por:  
-` #Repositorios oficiales`
+
+```
+#Repositorios oficiales
 
 deb http://ftp.debian.org/debian/ testing main  
 deb-src http://ftp.debian.org/debian/ testing main contrib non-free
 
-\#Repositorios de seguridad
+#Repositorios de seguridad
 
 deb http://security.debian.org/ testing/updates main  
 deb-src http://security.debian.org/ testing/updates main
 
-\#Repositorios multimedia
+#Repositorios multimedia
 
 deb http://www.debian-multimedia.org/ testing main  
 deb-src http://www.debian-multimedia.org/ testing main
+```
 
 Luego de eso, debemos hacer un:
 
-` aptitude update aptitude safe-upgrade aptitude full-upgrade`
+```
+ptitude update 
+aptitude safe-upgrade 
+aptitude full-upgrade
+```
 
 Si de casualidad tienen un error con algun modulo en el kernel pueden
 ver este
@@ -72,7 +93,10 @@ mi caso pero, debe ser igual :))
 al momento del reboot el sistema les va a pedir su usuario y contraseña
 la cual deben poner luego de eso se loguean como root y escriben:
 
-` aptitude install xserver-xorg`
+```
+aptitude install xserver-xorg
+
+```
 
 Y listo, esperan a que bajen todos los paquetes y tendran su flamante
 wheezy!!
