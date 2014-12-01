@@ -1,9 +1,14 @@
 Title: Diseñando nuestro sitio web
 Date: 2012-03-14 09:21
-Author:  
+Category: Web
+Tags: web, desarrollo
 Slug: disenando-nuestro-sitio-web
-
-![wordpress-logo](http://abr4xas.org/wp-content/uploads/2012/01/wordpress-logo-crop-150x150.jpg "wordpress-logo-crop")
+Author: abr4xas
+twitter: abr4xas
+Summary: Si no eres un diseñador entonces no tienes que molestarte en diseñar
+tu sitio web por tí mismo. Hay dos formas prudentes y efectivas para
+hacer el trabajo...
+image: 
 
 [Como dice Jepser Bernardino en su
 blog](http://jepserbernardino.com/idea/como-crear-un-buen-sitio-web-creando-el-diseno/ "Como crear un buen sitio web, creando el diseño"):
@@ -12,7 +17,7 @@ tu sitio web por tí mismo. Hay dos formas prudentes y efectivas para
 hacer el trabajo — **contrata a un buen diseñador** o **elige una
 plantilla prediseñada de algún sitio de recursos,**se cauteloso. Un buen
 diseño no signican efectos especiales, gráficos fumados y un creciente
-número de diseñadores-wannabe visitando tu sitio."<!--more-->*
+número de diseñadores-wannabe visitando tu sitio."*
 
 **Pero, ¿Que hace un buen diseño?**
 
@@ -36,8 +41,6 @@ diseño te conduce a lo que estás buscando.
     diseño no es un arte, es usabilidad. El diseño es el canal entre el
     que come y la comida. El diseño lleva el contenido y la
     funcionalidad.
-
-**<span style="color: #ff0000;">[adsenseyu2]</span>**
 
 **Autopsia de un gran diseño**
 
@@ -70,7 +73,6 @@ web debe ser:
     “***bueno***” o aún “suficiente bueno” sin ellos. Mira a Craigslist
     o Google como ejemplos.
 
-<span style="color: #ff0000;">[adsenseyu1]</span>
 
 **Hazlo “tu mismo”:  diseño de un repertorio**
 
@@ -106,5 +108,3 @@ Como lo he dicho en artículos previos — lo que sea que decidas, no
 intentes ser perfecto. No gaste tiempo y energía afinando los detalles
 para siempre. Publica tu sitio rápidamente, no importando si es un
 diseño único, una plantilla estándar o una personalizada.
-
-<span style="color: #ff0000;">[adsenseyu3]</span>
