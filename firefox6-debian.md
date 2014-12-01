@@ -1,10 +1,16 @@
 Title: Firefox 6 en debian
 Date: 2011-08-24 18:35
-Author:  
+Category: Web
 Slug: firefox6-debian
+Author: abr4xas
+twitter: abr4xas
+Summary: Como todos sabemos, firefox va por su version 6 y muy pronto saldra a la luz
+la 7 :D bueno, para quienes usamos debian y estemos acostumbrado a la
+personalización que podemos darle a este explorador pues, aqui hay un
+truco para tener siempre la ultima version del navegador...
+image: 
 
-[![Firefox](http://abr4xas.org/wp-content/uploads/2011/08/logoFF.png "Firefox")](http://abr4xas.org/wp-content/uploads/2011/08/logoFF.png)Como
-todos sabemos, firefox va por su version 6 y muy pronto saldra a la luz
+Como todos sabemos, firefox va por su version 6 y muy pronto saldra a la luz
 la 7 :D bueno, para quienes usamos debian y estemos acostumbrado a la
 personalización que podemos darle a este explorador pues, aqui hay un
 truco para tener siempre la ultima version del navegador...
@@ -16,26 +22,41 @@ y bajarnos el paquete tar.bz2
 Listo eso debemos copiar el archivo que bajamos a la carpeta /opt en
 este caso en la cosola (como root, obvio) debemos hacer algo asi:
 
-`root@Genius:/home/abr4xas/Escritorio# cp firefox-6.0.tar.bz2 /opt/`  
+```bash
+root@Genius:/home/abr4xas/Escritorio# cp firefox-6.0.tar.bz2 /opt/
+```
+
 luego de eso, pasamos a la carpeta en cuestion (/opt) cambiando el
 directorio:
 
-`cd /opt`  
+```bash
+cd /opt
+```
+
 Si, listamos lo que tenemos en esa carpeta deberia salir (más o menos)
 algo asi:  
 
-`root@Genius:/opt# ls Adobe Adobe AIR firefox-6.0.tar.bz2 google TweetDeck`  
+```bash
+root@Genius:/opt# ls Adobe Adobe AIR firefox-6.0.tar.bz2 google TweetDeck
+```
 Bueno, debemos descomprimir el tar.bz2 con:  
-`tar xvjf firefox-6.0.tar.bz2`  
+```bash
+tar xvjf firefox-6.0.tar.bz2
+```
+
 luego de eso tendremos nuestra flamante carpeta "firefox" en el
 directorio lista para ser usada :) pero, debemos hacer un enlace
 simbolico de la forma:  
-`ln -s /opt/firefox/firefox /usr/bin/firefox6`  
+```bash
+ln -s /opt/firefox/firefox /usr/bin/firefox6
+```
 (recuerden cambiar, el ultimo numero donde dice firefox por la version
 que esten usando)  
 listo eso, lo unico que nos queda es hacer un lanzador en la interfaz,
 usando el editor de menu agregamos la siguiente linea:  
-`/usr/bin/firefox_X`  
+```bash
+/usr/bin/firefox
+```
 Y listo, ya contamos con nuestro firefox actualizado!!
 
 [Basado en
