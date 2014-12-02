@@ -1,11 +1,5 @@
 Title: #Apache, sus mods y algo más
 Date: 2012-03-13 02:35
-Author:  
-Slug: apache-mods
-
-
-Title: #Apache, sus mods y algo más
-Date: 2012-03-13 02:35
 Category: Linux
 Tags: apache, web server
 Slug: apache-mods
