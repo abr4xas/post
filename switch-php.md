@@ -1,10 +1,5 @@
 Title: Haciendo un switch en #PHP
 Date: 2012-03-06 08:44
-Author:  
-Slug: switch-php
-
-Title: Haciendo un switch en #PHP
-Date: 2012-03-06 08:44
 Category: Php
 Tags: php
 Slug: switch-php
