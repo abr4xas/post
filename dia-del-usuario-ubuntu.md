@@ -1,10 +1,5 @@
 Title: Día del Usuario #Ubuntu
 Date: 2012-05-26 20:59
-Author:  
-Slug: dia-del-usuario-ubuntu
-
-Title: Día del Usuario #Ubuntu
-Date: 2012-05-26 20:59
 Category: Linux
 Tags: linux, ubuntu
 Slug: dia-del-usuario-ubuntu
