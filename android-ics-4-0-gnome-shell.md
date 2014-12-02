@@ -1,8 +1,3 @@
-Title: #android ICS 4.0 - Gnome Shell
-Date: 2012-01-25 21:11
-Author:  
-Slug: android-ics-4-0-gnome-shell
-
 Title: android ICS 4.0 - Gnome Shell
 Date: 2012-01-25 21:11
 Category: Linux
