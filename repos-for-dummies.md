@@ -1,10 +1,5 @@
 Title: Configurar repos en #debian. (For Dummies)
 Date: 2011-09-15 04:24
-Author:  
-Slug: repos-for-dummies
-
-Title: Configurar repos en #debian. (For Dummies)
-Date: 2011-09-15 04:24
 Category: Linux
 Tags: debian
 Slug: repos-for-dummies
