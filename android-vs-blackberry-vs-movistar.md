@@ -1,11 +1,5 @@
 Title: Android vs Blackberry vs Movistar
 Date: 2012-05-08 13:37
-Author:  
-Slug: android-vs-blackberry-vs-movistar
-
-
-Title: Android vs Blackberry vs Movistar
-Date: 2012-05-08 13:37
 Category: Blog
 Tags: pelican, publishing
 Slug: android-vs-blackberry-vs-movistar
