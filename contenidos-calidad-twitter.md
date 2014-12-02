@@ -1,11 +1,5 @@
 Title: Creando buen contenido para twitter
 Date: 2011-12-24 00:30
-Author:  
-Slug: contenidos-calidad-twitter
-
-
-Title: Creando buen contenido para twitter
-Date: 2011-12-24 00:30
 Category: Web
 Tags: twitter
 Slug: contenidos-calidad-twitter
