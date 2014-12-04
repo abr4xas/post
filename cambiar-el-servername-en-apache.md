@@ -1,15 +1,12 @@
 Title: Cambiar el "ServerName" en Apache.
 Date: 2011-09-01 23:51
-Category: Python
-Tags: pelican, publishing
+Category: Linux
+Tags: apache, webserver
 Slug: cambiar-el-servername-en-apache
 Author: abr4xas
 twitter: abr4xas
 Summary: Cuando estamos trabajando con Apache, como nuestro servidor de pruebas al momento de realizar alguna actualización o cuando lo instalamos si...
-image:
-
-
-
+image: https://www.rapidsslonline.com/blog/wp-content/uploads/2012/08/apache-logo.png
 
 Cuando estamos trabajando con Apache, como nuestro servidor de pruebas
 al momento de realizar alguna actualización o cuando lo instalamos si
