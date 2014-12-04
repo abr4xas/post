@@ -8,8 +8,14 @@ twitter: abr4xas
 Summary: Script para preparar el entorno para compilar una ROM para Firefox OS [DEBIAN]
 image: https://raw.githubusercontent.com/abr4xas/post/master/images/Firefox-OS.png
 
+Actualización 04/12/2014
+
+# [D E P R E C A T E D]
+Usar bajo su responsabilidad.
+_________
 Script para preparar el entorno para compilar una ROM para Firefox OS [DEBIAN]
 
+![Firefox OS](http://mozorg.cdn.mozilla.net/media/img/styleguide/identity/firefoxos/wordmark-standard-grey.png)
 
 ## Como usar
 
