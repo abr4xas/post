@@ -6,7 +6,7 @@ Slug: img4web
 Author: abr4xas
 twitter: abr4xas
 Summary: Un pequeño script en python para optimizar imagenes... 
-image: 
+image: /images/python_logo.png
 
 ## img4web
 
@@ -78,19 +78,6 @@ las nuevas imágenes procesadas.
 
 Después de la ejecución se muestra un pequeño informe con el ahorro de espacio
 de las imágenes por tipo.
-
-Luce así
-```
-    ============================================================================
-                                        Summary
-    ============================================================================
-             Original            Processed           Save
-
-    .jpgs:   ( 31)  2.12 MiB     ( 31)  1.82 MiB     301.28 KiB
-    .pngs:   ( 10)489.46 KiB     ( 10)368.93 KiB     120.53 KiB
-    ----------------------------------------------------------------------------
-    Total:   ( 41)  2.60 MiB     ( 41)  2.19 MiB     421.81 KiB
-```
 
 ## Como obtenerlo
 
