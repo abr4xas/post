@@ -1,3 +1,41 @@
+commit cccd6e11ca858b9f6b4e68cb76f4332694667a82 (HEAD, master)
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 18:08:10 2014 -0500
+
+    new
+
+commit 8eebbe5666f4d3794fc9b120fd4c254a4472fe23 (origin/master, origin/HEAD)
+Author: ángel <bullgram@gmail.com>
+Date:   Sat Dec 6 17:48:59 2014 -0430
+
+    Create img4web.md
+    
+    Se agrega un nuevo post
+
+commit d0d1438c72fd81193d853505def8c05e5658b57a
+Author: ángel <bullgram@gmail.com>
+Date:   Thu Dec 4 10:36:58 2014 -0430
+
+    Actualizado
+    
+    Se usan categoría y etiquetas correctas
+
+commit 988fc4877e4bb696c0def2ba815086e7eda22523
+Author: ángel <bullgram@gmail.com>
+Date:   Thu Dec 4 10:36:02 2014 -0430
+
+    Actualizado
+    
+    Se utiliza la categoría y las etiquetas correctas.
+
+commit c7b8e0ce666751f2683fffe22a8b0005b16da12e
+Author: ángel <bullgram@gmail.com>
+Date:   Thu Dec 4 10:30:21 2014 -0430
+
+    Acrualizado
+    
+    Se indica que el código es obsoleto.
+
 commit 051742e7717aa2edc7263e3e97f3525e87d226bb
 Author: ángel <bullgram@gmail.com>
 Date:   Tue Dec 2 09:52:56 2014 -0430
