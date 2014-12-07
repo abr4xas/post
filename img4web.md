@@ -8,8 +8,6 @@ twitter: abr4xas
 Summary: Un pequeño script en python para optimizar imagenes... 
 image: /images/python_logo.png
 
-## img4web
-
 Un script python para optimizar imágenes
 [.jpg](http://es.wikipedia.org/wiki/Joint_Photographic_Experts_Group) y
 [.png](http://es.wikipedia.org/wiki/Portable_Network_Graphics) para la web.
