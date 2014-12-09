@@ -7,6 +7,7 @@ Author: abr4xas
 twitter: abr4xas
 Summary: Instalando homebrew en la mac, para tener todo lo que Apple no quiere que tenga xD 
 image: http://url/de/imagen/destacada
+Status: draft
 
 Este será un post sencillo y directo... Así que vamos a ello!!
 
