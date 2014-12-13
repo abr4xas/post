@@ -1,5 +1,5 @@
 Title: Instalando Homebrew
-Date: 2014-12-08 19:20
+Date: 2014-12-13 19:20
 Category: Apple
 Tags: mac, apple, os
 Slug: instalando-homebrew
