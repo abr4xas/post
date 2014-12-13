@@ -6,8 +6,7 @@ Slug: instalando-homebrew
 Author: abr4xas
 twitter: abr4xas
 Summary: Instalando homebrew en la mac, para tener todo lo que Apple no quiere que tenga xD 
-image: http://url/de/imagen/destacada
-Status: draft
+image: /images/brew.png
 
 Este será un post sencillo y directo... Así que vamos a ello!!
 
@@ -54,3 +53,31 @@ The standalone package can be obtained from
 or it can be installed via Xcode's preferences.
 ```
 Luego de eso, nos toca instalar ```Xcode command line tools```
+
+Puedes instalar el instalador desde esta pagina de  
+[descargas](https://github.com/kennethreitz/osx-gcc-installer/downloads) o puedes usar los siguentes links:
+
+* OS X 10.8 Mountain Lion: [GCC-10.7.pkg](https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.7-v2.pkg) (Includes 10.7 Headers, so use with caution).
+* OS X 10.7 Lion: [GCC-10.7.pkg](https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.7-v2.pkg)
+* OS X 10.6 Snow Leopard: [GCC-10.6.pkg](https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.6.pkg)
+
+Ahora, para revisar si todo esta bien probamos instalando ```wget``` para eso, escribimos en la terminal:
+
+```bash
+$ brew install wget
+```
+Y debemos tener un mensaje parecido a este (despues de instalar sus dependencias que son: ```xz```, ```makedepend```, ```openssl```):
+
+```bash
+==> Installing wget
+==> Downloading http://ftpmirror.gnu.org/wget/wget-1.16.tar.xz
+🍺  /usr/local/Cellar/wget/1.16: 9 files, 956K, built in 115 seconds
+```
+Listo!! Ya tenemos ```brew```, ```Xcode command line tools``` y ```wget``` instalados en el MAC :D
+
+## Concideraciones:
+
+Es recomendable hacer:
+
+* ```brew update```
+* ```brew doctor```
