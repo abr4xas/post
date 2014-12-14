@@ -8,6 +8,8 @@ twitter: abr4xas
 Summary: Instalando homebrew en la mac, para tener todo lo que Apple no quiere que tenga xD 
 image: /images/brew.png
 
+![Instalando Homebrew]({filename}/images/brew.png)
+
 Este será un post sencillo y directo... Así que vamos a ello!!
 
 Para instalar homebrew solo debemos colocar en la terminal:
@@ -81,3 +83,64 @@ Es recomendable hacer:
 
 * ```brew update```
 * ```brew doctor```
+
+## ACTUALIZADO 
+
+Luego de instalar las ```Xcode command line tools``` me dio "ciertos" problemas al instalar git, abri este ticket [#34960](https://github.com/Homebrew/homebrew/issues/34960#issuecomment-66895313) y la respuesta de @[jacknagel](https://github.com/Homebrew/homebrew/issues/34960#issuecomment-66895313) fue muy "directa" debido a esto, realice lo siguiente:
+
+* Desinstalar ```osx-gcc-installer```
+* Reiniciar
+* Instalar Xcode 4.3 
+* Correr nuevamente ```brew doctor```
+* Listo
+
+### Como desinstalar ```osx-gcc-installer```
+
+Facil!!
+
+En la terminal como root escribimos ```/Library/Developer/4.1/uninstall-devtools -mode=all``` esperamos unos momentos y listo, ya eliminamos ```osx-gcc-installer```.
+
+Continuamos con los otros pasos.
+
+## Instalando ```Xcode 4.3```
+
+Vamos a [developer.apple.com](https://developer.apple.com/downloads) buscamos ```Xcode 4.3``` lo bajamos (pesa 137 mb) lo instalamos y listo. 
+
+## Que paso con git?
+
+Bueno, facil... En la terminal:
+
+```bash
+$ brew install git
+```
+Dejamos que haga lo que tenga que hacer y...
+
+```bash
+$ brew info git
+git: stable 2.2.0, HEAD
+http://git-scm.com
+/usr/local/Cellar/git/2.2.0 (1351 files, 32M) *
+  Built from source
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/git.rb
+```
+
+Escribimos nuevamente: ```echo 'export PATH="/usr/local/bin:/usr/local/sbin:~/bin:$PATH"' >> ~/.bash_profile```, reiniciamos la terminal (la cerramos) escribimos ```git --version``` y debemos tener un resultado como este: ```git version 2.2.0```
+
+## Y que dice el doctor?
+
+Bueno, ```brew doctor``` sigue diciendo:
+
+```bash
+$ brew doctor
+Please note that these warnings are just used to help the Homebrew maintainers
+with debugging if you file an issue. If everything you use Homebrew for is
+working fine: please don't worry and just ignore them. Thanks!
+
+Warning: A newer Command Line Tools release is available.
+The standalone package can be obtained from
+  https://developer.apple.com/downloads
+or it can be installed via Xcode's preferences.
+```
+Claro, sigue notificando que hay una nueva version de las ```Command Line Tools``` pero vamos, estoy usando (aun) Lion asi que no puedo hacer mas nada. :)
+
+Espero que les sea util este post!!
