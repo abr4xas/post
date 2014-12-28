@@ -1,5 +1,5 @@
 Title: Creando tiles de Windows 8.1 para nuestro sitio web
-Date: 2012-12-28 10:20
+Date: 2014-12-28 10:20
 Category: web
 Tags: web
 Slug: windows-8-tile
