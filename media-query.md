@@ -105,4 +105,8 @@ pero nunca llegamos a usar todo el potencial que nos ofrece.
 Bootstrap es genial, pero como dije arriba realmente no usamos todo el potencial que nos ofrece, y vamos a tener 
 codigo innecesario en nuestras aplicaciones web cuando solamente usamos el 10% del framework.
 
+Fuente:
 
+* http://www.studiopress.com/design/website-respond-mobile-devices.htm
+* http://rolandocaldas.com/html5/media-queries-y-responsive-design
+* https://developer.mozilla.org/es/docs/CSS/Media_queries
