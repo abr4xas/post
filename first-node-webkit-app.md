@@ -56,7 +56,7 @@ $ /path/to/nw  /path/to/app
 
 Y vamos a tener una salida parecida a esta:
 
-![Ejemplo Node Webkit APP](/images/node-web-kit-app.png "Ejemplo Node Webkit APP")
+![Ejemplo Node Webkit APP](images/node-web-kit-app.png "Ejemplo Node Webkit APP")
 
 
 ## Como instalar Node Webkit

@@ -8,7 +8,7 @@ twitter: abr4xas
 Summary: Instalando homebrew en la mac, para tener todo lo que Apple no quiere que tenga xD 
 image: /images/brew.png
 
-![Instalando Homebrew]({filename}/images/brew.png)
+![Instalando Homebrew](images/brew.png)
 
 Este será un post sencillo y directo... Así que vamos a ello!!
 
