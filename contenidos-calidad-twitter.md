@@ -16,7 +16,7 @@ efectivamente saben lo que hacen...
 
 
 
-![](http://www.trecebits.com/wp-content/uploads/2010/04/twitter_london.jpg "twitter-london")
+![twitter-london](http://www.trecebits.com/wp-content/uploads/2010/04/twitter_london.jpg "twitter-london")
 
 
 
@@ -37,7 +37,7 @@ Lo que se debe hacer:
 
 Ahora tengamos en cuenta la siguiente infografía:
 
-![](http://www.e-interactive.es/wp-content/uploads/2011/05/ElTweetPerfecto.jpg "infografía")
+![twitter-london](http://www.e-interactive.es/wp-content/uploads/2011/05/ElTweetPerfecto.jpg "infografía")
 
 Lo que no se debe hacer:
 

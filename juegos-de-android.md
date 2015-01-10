@@ -12,9 +12,9 @@ image: http://1.bp.blogspot.com/-NIeq-7-EACQ/UiG9ZnErqiI/AAAAAAAABYs/s1DiHGfXPlg
 
 Bueno, en el dia de hoy he estado buscando un buen juego para mi equipo (tengo un Motorola milestone ) y pues encontré dos:
 
-![](http://yezzboot.files.wordpress.com/2011/08/wpid-screenshot-1314448624643.png?w=594)
+![Juego Android](http://yezzboot.files.wordpress.com/2011/08/wpid-screenshot-1314448624643.png)
 
-![](http://yezzboot.files.wordpress.com/2011/08/wpid-screenshot-1314448946242.png?w=594)
+![Juego Android](http://yezzboot.files.wordpress.com/2011/08/wpid-screenshot-1314448946242.png)
 
 Estan en el market!! Son muuuy buenos!!!!!! Btw, estoy usando una aplicación para wordpreesen android luego les
 comento.
