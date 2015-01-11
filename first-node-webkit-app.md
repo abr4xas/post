@@ -68,3 +68,7 @@ La instalación esta disponible para las plataformas:
 * Windows
 
 Para conocer la forma de instalación adecuada a tu plataforma visita este [enlace](https://github.com/rogerwang/node-webkit#downloads).
+
+---
+
+<a href="http://www.bloglovin.com/blog/13452033/?claim=nnr59qefyce">Follow my blog with Bloglovin</a>
