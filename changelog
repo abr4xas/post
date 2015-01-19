@@ -1,3 +1,15 @@
+commit bfb871f0470a13619863901c2e206ca8ca83fd9c
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 11:47:47 2015 -0430
+
+    Actualizando informacion sobre error 404
+
+commit b149944e3e95dca6d8fa97224bd7439096ca1d8a
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 11:28:41 2015 -0430
+
+    Agregando pagina personalizada de error 404
+
 commit a9d904c7bc9a265bdf4f855b5aa0a3e4892ad73f
 Author: abr4xas <me@abr4xas.org>
 Date:   Fri Jan 16 11:16:28 2015 -0430
