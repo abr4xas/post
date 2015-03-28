@@ -14,7 +14,9 @@ Lo unico necesario para ayudar es:
 * conocimientos sobre ```git```
 * una cuenta en github para poder hacer ```fork``` y enviar los Pull Request.
 
-## Repo: *[Post](https://github.com/abr4xas/post)*
+## Repo: 
+
+[Post](https://github.com/abr4xas/post)
 
 Este repo cuenta con las siguientes caracteristicas:
 

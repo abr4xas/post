@@ -28,7 +28,7 @@ Profesor en la Academia de Software Libre en [Fundacite Carabobo](www.fundacite-
  * [Twitter](https://twitter.com/abr4xas "Sigueme en twitter")
  * [Google+](https://plus.google.com/u/0/+%C3%A1ngelcruzj/posts "Sigueme en g+")
  * [Behance](http://behance.net/abr4xas "Portafolios") 
- * [Github](https://github.com/abr4xas "Mi repo")
+ * [Github](https://github.com/abr4xas "Mis repos")
 
 
 
