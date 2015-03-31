@@ -18,7 +18,7 @@ Hay 2 herramientas que debes tener en tu maquina para que puedas usar esta gran 
 * [Vagrant](http://www.vagrantup.com/downloads.html)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-Para más info clic [aquí](entorno-virtual-vagrant.md).
+Para más info clic [aquí](entorno-virtual-vagrant.html).
 
 ## Que es lo que hace el script?
 
