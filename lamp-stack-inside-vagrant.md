@@ -5,7 +5,7 @@ Tags:
 Slug: lamp-stack-inside-vagrant
 Author: abr4xas
 twitter: abr4xas
-Summary: Preparando un ambiente LAMP para usar con Vagrant.
+Summary: Preparando un ambiente LAMP para usar con Vagrant. :smile:
 image: http://d2wwfe3odivqm9.cloudfront.net/wp-content/uploads/2015/02/vagrant_logo-200x200.png
 
 ![Vagrant Logo](/images/logo_vagrant.png)
