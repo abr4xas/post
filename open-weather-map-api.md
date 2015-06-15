@@ -1,11 +1,11 @@
 Title: Jugando con la API de OpenWeatherMaps
-Date: 2015-06-16 10:20
+Date: 2015-06-15 10:20
 Category: Web
 Tags: json, api, php
 Slug: open-weather-map-api
 Author: abr4xas
 twitter: abr4xas
-Summary: Como obtener datos del clima desde OpenWeatherMap usando PHP 
+Summary: Como obtener datos del clima desde OpenWeatherMap usando PHP
 image: https://superrepo.org/static/images/icons/original/weather.openweathermap.extended.png
 
 > OpenWeatherMap service provides open weather data for more than 200,000 cities and any geo location that is available on our web-site and through API. Ideology of our service is inspired by OpenStreetMap and Wikipedia that make information free and available for everybody. OpenWeatherMap provides wide range of weather data including current weather, forecast, precipitations, wind, clouds, data from weather stations, lots of maps, analytics and many others. We have own model of weather calculation that involves global meteorological broadcast data, own WRF calculation for regions and real-time data from more than 40,000 weather stations.
@@ -15,7 +15,7 @@ image: https://superrepo.org/static/images/icons/original/weather.openweathermap
 Entonces, que necesitamos para obtener info sobre el clima en la ciudad?
 
 * URL del API de OWM
-* Saber un poquito de PHP 
+* Saber un poquito de PHP
 
 ## Juguemos  ᕕ( ᐛ )ᕗ
 
@@ -77,9 +77,9 @@ En un archivo PHP colocamos lo siguiente:
 ```php
 
     $url = file_get_contents("http://api.openweathermap.org/data/2.5/weather?q=valencia,ve&units=metric");
-    
+
     $json = json_decode($url);
-    
+
     $ciudad         = $json->name;
     $latitud        = $json->coord->lat;
     $longitud       = $json->coord->lon;
@@ -89,7 +89,7 @@ En un archivo PHP colocamos lo siguiente:
     $presion        = $json->main->pressure;
     $humedad        = $json->main->humidity;
     $viento         = $json->main->speed;
-    
+
 ```
 
 Ya solo nos queda imprimir las variables y listo :)
