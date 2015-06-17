@@ -16,10 +16,9 @@ Creemos que las bases de datos No-SQL son geniales, por ello queremos ofrecele a
 
 Inspirado en el excelente trabajo de:
 
-* [**xombra**](https://github.com/xombra)
-  * *Por crear este gist sobre: "Código y Bancos correspondientes de Venezuela"*
-* [**marydn**] (https://github.com/marydn) en [venezuela-sql]
-* [**zokeber**] (https://github.com/zokeber) en [venezuela-json]
+* [**xombra**](https://github.com/xombra) Por crear este gist sobre: "Código y Bancos correspondientes de Venezuela"
+* [**marydn**](https://github.com/marydn) en venezuela-sql
+* [**zokeber**](https://github.com/zokeber) en venezuela-json
 
 Y motivado por la ausencia de proyectos de éste tipo, BANCOS-JSON apunta a ser la mejor elección para todo aquél que requiera la organización bancaria de Venezolana en ```.json.```
 
@@ -34,14 +33,14 @@ Para importar ```bancos.json``` a MongoDB sólo debes escribir en tu consola:
 mongoimport --jsonArray --db tu_base_de_datos --collection tu_coleccion --type json --file "/ruta/a/bancos.json"
 ```
 
-# Referencias
+## Referencias
 
-* [JSON] (https://es.wikipedia.org/wiki/JSON)
-* [MongoDB] (http://www.mongodb.com/mongodb-overview)
-* [Venezuela-SQL] (https://github.com/marydn/venezuela-sql)
-* [Venezuela-JSON] (https://github.com/zokeber/venezuela-json)
+* [JSON](https://es.wikipedia.org/wiki/JSON)
+* [MongoDB](http://www.mongodb.com/mongodb-overview)
+* [Venezuela-SQL](https://github.com/marydn/venezuela-sql)
+* [Venezuela-JSON](https://github.com/zokeber/venezuela-json)
 * [Código y Bancos correspondientes de Venezuela](https://gist.github.com/xombra/11335801)
 
 ## Licencia
 
-Licencia [CC BY 4.0] (http://creativecommons.org/licenses/by/4.0/deed.es_ES)
+Licencia [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/deed.es_ES)
