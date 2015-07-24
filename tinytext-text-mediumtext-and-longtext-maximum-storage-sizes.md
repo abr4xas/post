@@ -1,4 +1,4 @@
-Title: Tamaños maximos de lamacenamiento de TEXT, TINYTEXT, MEDIUM/LONG TEXT
+Title: Tamaños maximos de almacenamiento de TEXT, TINYTEXT, MEDIUM/LONG TEXT
 Date: 2015-07-11 18:00
 Category: Web
 Tags: mysql, database
