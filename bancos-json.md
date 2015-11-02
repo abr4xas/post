@@ -8,7 +8,7 @@ twitter: abr4xas
 Summary: Creemos que las bases de datos No-SQL son geniales, por ello queremos ofrecele a los desarrolladores Venezolanos un recurso útil para sus proyectos. Básicamente, BANCOS-JSON es un documento en formato JSON que agrupa gran parte de los bancos dentro del territorio nacional.
 image: http://i.imgur.com/88FpuUJ.png
 
-![] (http://i.imgur.com/88FpuUJ.png)
+![tri color] (http://i.imgur.com/88FpuUJ.png)
 # bancos-json
 Código y Bancos correspondientes de Venezuela
 
