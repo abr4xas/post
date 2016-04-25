@@ -31,3 +31,6 @@ El archivo `data.log` contiene/contenia informacion delicada sobre las api key d
 Todo esto me lleva a la siguiente pregunta:
 
 ## ¿A quien le corresponde estar pendiente que no se puedan listar los directorios del Wordpress?
+
+
+Nota: Antes de escribir este post fue notificado al dueño del dominio el problema y ya fue solventado.
