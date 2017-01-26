@@ -27,7 +27,7 @@ Han sido muchos meses de espera y al fin podemos ver que la nueva actualización
 * Secretos...
 
 
-Se han comentaron muchas cosas, entre ellas que quizás con este nuevo robot araña se pueda subir por las paredes y con ello dar a <a href="http://descargargeometrydashgratis.com" target="_blank" rel=”nofollow”>Geometry Dash</a> muchas más posibilidades y opciones al jugarse en vertical, pero ya hemos podido ver que su habilidad es la de transportarse al instante de arriba a abajo del mapa.
+Se han comentaron muchas cosas, entre ellas que quizás con este nuevo robot araña se pueda subir por las paredes y con ello dar a <a href="http://descargargeometrydashgratis.com" target="_blank" rel="follow">Geometry Dash</a> muchas más posibilidades y opciones al jugarse en vertical, pero ya hemos podido ver que su habilidad es la de transportarse al instante de arriba a abajo del mapa.
 
 
 Desde que salió la actualización de 2.0 del juego muchas personas se quedaron con un sabor agridulce y así lo hicieron saber al equipo de robtop. El mismo reconoció que esa actualización fue casi obligatoria, ya que si no hacía una actualización muchas personas dejarían de jugar con el paso de los días.
@@ -36,6 +36,6 @@ A simple vista puede parecer sencillo, pero el éxito de este juego radica en qu
 
 Una de las cosas que hacen que este juego sea tan adictivo sin duda es la comunidad que lo rodea. Los usuarios del juego pueden crear sus propios niveles y compartirlos con los demás usuarios, con ello se garantiza que la jugabilidad y diversión sea infinita!
 
-Hay muchos lugares donde <a href="http://descargargeometrydashgratis.com" target="_blank" rel=”nofollow”>descargar geometry dash 2.1</a> así que te lo recomiendo completamente!! 
+Hay muchos lugares donde <a href="http://descargargeometrydashgratis.com" target="_blank" rel="follow">descargar geometry dash 2.1</a> así que te lo recomiendo completamente!! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TNyhP4p-Nv8" frameborder="0" allowfullscreen></iframe>
